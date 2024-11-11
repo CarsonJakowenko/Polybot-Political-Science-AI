@@ -1,0 +1,601 @@
+Voter ID,Age,Income,Employment Status,Sex,Marital Status,Education Level,State of Residence,Ethnicity,Region,Political Ideology,Registered Citizen Status,Sexuality,Military Status,Amount of Children,Likelihood to Vote,Income Bracket,Government Trust,Physical Health,Mental Health,Religion,Gun Possession Status
+Democrat,61,140000,Student,Female,Divorced,Bachelor's Degree,Indiana,Asian,Midwest,Conservative,Registered,Heterosexual,Non-Veteran,5,Undecided,Low,Distrustful,Excellent,Fair,Christian,Possessor
+Democrat,26,95000,Student,Female,Divorced,Doctoral Degree,Virginia,Black,South,Liberal,Registered,Heterosexual,Non-Veteran,1,Undecided,Middle,Distrustful,Fair,Excellent,Christian,Non-Possessor
+Democrat,77,65000,Retired,Female,Widowed,Master's Degree,Rhode Island,Asian,Northeast,Progressive,Registered,Heterosexual,Non-Veteran,1,Likely,Middle,Neutral,Fair,Good,Christian,Non-Possessor
+Republican,52,65000,Unemployed,Male,Divorced,High School,Delaware,Other,South,Centrist,Registered,Heterosexual,Non-Veteran,4,Likely,High,Distrustful,Excellent,Good,Hindu,Non-Possessor
+Democrat,68,240000,Self-employed,Male,Single,Bachelor's Degree,Hawaii,Other,Unknown,Progressive,Registered,Heterosexual,Non-Veteran,4,Undecided,High,Neutral,Poor,Poor,Muslim,Non-Possessor
+Democrat,41,110000,Employed,Male,Widowed,Doctoral Degree,Massachusetts,Other,Northeast,Conservative,Registered,Heterosexual,Non-Veteran,1,Likely,Low,Neutral,Good,Excellent,Muslim,Possessor
+Republican,20,145000,Retired,Female,Married,Associate Degree,Alaska,White,Unknown,Conservative,Registered,Heterosexual,Veteran,1,Likely,Middle,Trustful,Excellent,Excellent,Christian,Non-Possessor
+Republican,34,220000,Employed,Female,Single,High School,North Dakota,Asian,Unknown,Libertarian,Registered,Heterosexual,Non-Veteran,4,Undecided,Middle,Neutral,Fair,Fair,Christian,Non-Possessor
+Democrat,32,285000,Employed,Male,Widowed,Bachelor's Degree,Colorado,Hispanic,Unknown,Socialist,Registered,Gay,Non-Veteran,1,Unlikely,Low,Trustful,Good,Excellent,Christian,Non-Possessor
+Democrat,52,75000,Self-employed,Female,Single,Bachelor's Degree,Arkansas,White,South,Centrist,Registered,Heterosexual,Non-Veteran,1,Unlikely,Low,Trustful,Poor,Good,Christian,Non-Possessor
+Democrat,21,140000,Student,Male,Single,Master's Degree,Pennsylvania,Other,Northeast,Conservative,Registered,Gay,Non-Veteran,1,Unlikely,High,Trustful,Poor,Good,Hindu,Non-Possessor
+Democrat,50,290000,Unemployed,Female,Divorced,Bachelor's Degree,South Carolina,White,South,Socialist,Registered,Heterosexual,Veteran,5,Likely,Middle,Trustful,Good,Poor,Jewish,Non-Possessor
+Republican,79,280000,Employed,Male,Married,High School,Connecticut,Black,Northeast,Socialist,Registered,Heterosexual,Non-Veteran,2,Undecided,High,Trustful,Excellent,Excellent,Christian,Non-Possessor
+Republican,52,240000,Employed,Female,Married,Bachelor's Degree,New Jersey,White,Northeast,Conservative,Registered,Heterosexual,Non-Veteran,1,Undecided,Low,Distrustful,Fair,Excellent,Christian,Non-Possessor
+Democrat,36,245000,Student,Male,Married,Doctoral Degree,New York,Asian,Northeast,Socialist,Registered,Heterosexual,Non-Veteran,1,Unlikely,High,Neutral,Fair,Poor,Hindu,Non-Possessor
+Republican,73,300000,Self-employed,Female,Married,Bachelor's Degree,Missouri,Hispanic,Midwest,Conservative,Registered,Heterosexual,Non-Veteran,4,Unlikely,Low,Distrustful,Fair,Fair,Christian,Non-Possessor
+Democrat,66,215000,Self-employed,Male,Single,High School,Connecticut,Black,Northeast,Liberal,Registered,Heterosexual,Non-Veteran,2,Likely,Low,Trustful,Poor,Good,Christian,Non-Possessor
+Republican,32,260000,Self-employed,Male,Divorced,Master's Degree,Maryland,Hispanic,South,Liberal,Registered,Heterosexual,Non-Veteran,3,Likely,High,Trustful,Good,Fair,Christian,Non-Possessor
+Democrat,18,55000,Student,Female,Married,Associate Degree,Montana,Hispanic,Unknown,Socialist,Registered,Heterosexual,Non-Veteran,5,Likely,High,Neutral,Poor,Poor,Christian,Possessor
+Democrat,58,85000,Student,Male,Divorced,Doctoral Degree,New Jersey,Hispanic,Northeast,Centrist,Registered,Heterosexual,Non-Veteran,0,Likely,Low,Trustful,Poor,Excellent,Christian,Possessor
+Democrat,23,30000,Unemployed,Male,Single,High School,Nevada,Hispanic,Unknown,Centrist,Registered,Heterosexual,Non-Veteran,2,Unlikely,Low,Neutral,Fair,Excellent,Christian,Non-Possessor
+Democrat,54,70000,Self-employed,Male,Widowed,Doctoral Degree,Kansas,Black,Unknown,Progressive,Registered,Heterosexual,Non-Veteran,3,Undecided,Middle,Distrustful,Poor,Excellent,Muslim,Non-Possessor
+Democrat,20,200000,Retired,Male,Widowed,Associate Degree,Delaware,White,South,Socialist,Registered,Gay,Non-Veteran,2,Unlikely,High,Distrustful,Poor,Fair,Hindu,Possessor
+Democrat,20,320000,Employed,Non-Binary,Widowed,Master's Degree,West Virginia,Other,South,Libertarian,Registered,Gay,Non-Veteran,5,Unlikely,Low,Trustful,Fair,Good,Christian,Non-Possessor
+Republican,66,125000,Retired,Male,Married,Master's Degree,Louisiana,White,South,Centrist,Registered,Heterosexual,Non-Veteran,1,Likely,Low,Neutral,Good,Excellent,Hindu,Non-Possessor
+Democrat,63,30000,Unemployed,Female,Single,Bachelor's Degree,Kansas,Asian,Unknown,Conservative,Registered,Heterosexual,Non-Veteran,2,Likely,Low,Distrustful,Poor,Excellent,Muslim,Non-Possessor
+Republican,41,45000,Self-employed,Male,Married,High School,Missouri,Other,Midwest,Centrist,Registered,Heterosexual,Non-Veteran,5,Likely,Middle,Distrustful,Poor,Good,Christian,Non-Possessor
+Republican,41,220000,Retired,Female,Married,Master's Degree,Michigan,Hispanic,Midwest,Conservative,Registered,Heterosexual,Non-Veteran,5,Unlikely,High,Trustful,Excellent,Excellent,Hindu,Possessor
+Democrat,28,55000,Unemployed,Female,Widowed,Bachelor's Degree,Montana,Other,Unknown,Liberal,Registered,Heterosexual,Non-Veteran,0,Undecided,High,Trustful,Good,Good,Christian,Non-Possessor
+Democrat,32,190000,Retired,Female,Married,Bachelor's Degree,Pennsylvania,Hispanic,Northeast,Liberal,Registered,Gay,Non-Veteran,1,Undecided,Middle,Neutral,Fair,Fair,Muslim,Non-Possessor
+Democrat,43,120000,Student,Female,Single,High School,Mississippi,Other,South,Progressive,Registered,Heterosexual,Non-Veteran,2,Undecided,High,Neutral,Poor,Excellent,Christian,Non-Possessor
+Democrat,30,95000,Employed,Female,Widowed,High School,Massachusetts,Black,Northeast,Liberal,Registered,Heterosexual,Non-Veteran,1,Likely,Low,Trustful,Good,Excellent,Christian,Non-Possessor
+Democrat,29,155000,Self-employed,Male,Widowed,Master's Degree,Washington,Black,West Coast,Centrist,Registered,Heterosexual,Non-Veteran,4,Likely,Low,Trustful,Fair,Good,Christian,Possessor
+Republican,65,45000,Retired,Male,Divorced,Bachelor's Degree,Arizona,Asian,Unknown,Progressive,Registered,Heterosexual,Non-Veteran,2,Unlikely,High,Distrustful,Fair,Good,Christian,Possessor
+Republican,46,300000,Retired,Male,Married,Bachelor's Degree,Virginia,Black,South,Conservative,Registered,Heterosexual,Non-Veteran,2,Unlikely,Middle,Distrustful,Poor,Good,Muslim,Non-Possessor
+Democrat,49,270000,Employed,Male,Widowed,Bachelor's Degree,Nevada,Other,Unknown,Progressive,Registered,Heterosexual,Non-Veteran,2,Undecided,Low,Trustful,Good,Fair,Christian,Non-Possessor
+Democrat,45,145000,Self-employed,Male,Divorced,Bachelor's Degree,Louisiana,Asian,South,Centrist,Registered,Heterosexual,Non-Veteran,3,Unlikely,Middle,Neutral,Good,Good,Hindu,Non-Possessor
+Democrat,63,335000,Unemployed,Male,Divorced,Associate Degree,Kentucky,Black,South,Centrist,Registered,Heterosexual,Non-Veteran,1,Unlikely,Low,Trustful,Good,Excellent,Jewish,Non-Possessor
+Democrat,25,200000,Self-employed,Male,Single,Associate Degree,Alaska,Other,Unknown,Socialist,Registered,Gay,Non-Veteran,3,Unlikely,High,Trustful,Good,Fair,Jewish,Non-Possessor
+Democrat,62,130000,Employed,Female,Divorced,Bachelor's Degree,Oregon,Other,West Coast,Socialist,Registered,Heterosexual,Non-Veteran,3,Unlikely,High,Distrustful,Good,Good,Muslim,Possessor
+Republican,74,75000,Retired,Female,Widowed,Master's Degree,West Virginia,Other,South,Conservative,Registered,Heterosexual,Non-Veteran,5,Undecided,Low,Trustful,Good,Fair,Christian,Non-Possessor
+Republican,55,110000,Student,Non-Binary,Divorced,Associate Degree,Utah,White,Unknown,Centrist,Registered,Heterosexual,Non-Veteran,5,Unlikely,Low,Distrustful,Good,Good,Christian,Non-Possessor
+Democrat,75,340000,Unemployed,Male,Single,Bachelor's Degree,Wyoming,Hispanic,Unknown,Centrist,Registered,Heterosexual,Non-Veteran,2,Undecided,Middle,Neutral,Excellent,Poor,Christian,Non-Possessor
+Republican,29,245000,Self-employed,Female,Divorced,Doctoral Degree,West Virginia,Black,South,Libertarian,Registered,Heterosexual,Non-Veteran,5,Unlikely,Middle,Trustful,Poor,Good,Christian,Non-Possessor
+Democrat,35,15000,Student,Male,Widowed,High School,South Dakota,White,Unknown,Socialist,Registered,Heterosexual,Non-Veteran,5,Likely,Middle,Neutral,Poor,Poor,Jewish,Non-Possessor
+Democrat,18,90000,Self-employed,Female,Divorced,Bachelor's Degree,New Hampshire,White,Northeast,Liberal,Registered,Heterosexual,Non-Veteran,1,Unlikely,High,Neutral,Excellent,Fair,Christian,Non-Possessor
+Democrat,57,50000,Student,Female,Single,High School,Mississippi,Hispanic,South,Liberal,Registered,Heterosexual,Non-Veteran,2,Likely,Middle,Distrustful,Poor,Excellent,Christian,Non-Possessor
+Republican,68,340000,Student,Male,Married,Bachelor's Degree,Mississippi,White,South,Progressive,Registered,Heterosexual,Non-Veteran,3,Unlikely,High,Neutral,Good,Good,Christian,Possessor
+Democrat,65,165000,Self-employed,Female,Married,Doctoral Degree,Connecticut,Other,Northeast,Centrist,Registered,Heterosexual,Non-Veteran,0,Undecided,Low,Trustful,Good,Fair,Jewish,Non-Possessor
+Democrat,49,190000,Student,Male,Widowed,Bachelor's Degree,Illinois,Asian,Midwest,Libertarian,Registered,Heterosexual,Non-Veteran,3,Unlikely,Low,Trustful,Excellent,Fair,Hindu,Non-Possessor
+Democrat,33,90000,Student,Female,Widowed,Master's Degree,Utah,Black,Unknown,Libertarian,Registered,Heterosexual,Non-Veteran,0,Likely,Low,Neutral,Fair,Excellent,Jewish,Non-Possessor
+Democrat,64,140000,Unemployed,Female,Divorced,Bachelor's Degree,Utah,Black,Unknown,Conservative,Registered,Heterosexual,Non-Veteran,0,Likely,Middle,Distrustful,Good,Fair,Hindu,Non-Possessor
+Democrat,37,285000,Student,Female,Divorced,Doctoral Degree,New Mexico,White,Unknown,Liberal,Registered,Heterosexual,Non-Veteran,3,Unlikely,Middle,Distrustful,Good,Fair,Christian,Non-Possessor
+Republican,66,240000,Unemployed,Male,Divorced,High School,Pennsylvania,White,Northeast,Conservative,Registered,Gay,Non-Veteran,4,Likely,Middle,Trustful,Excellent,Poor,Hindu,Non-Possessor
+Republican,51,200000,Unemployed,Male,Widowed,Master's Degree,Maine,Hispanic,Northeast,Conservative,Registered,Heterosexual,Non-Veteran,2,Undecided,High,Neutral,Good,Fair,Christian,Possessor
+Democrat,48,220000,Retired,Female,Divorced,Doctoral Degree,Kentucky,Black,South,Progressive,Registered,Gay,Non-Veteran,0,Unlikely,Low,Distrustful,Excellent,Excellent,Muslim,Non-Possessor
+Democrat,68,285000,Retired,Male,Widowed,Master's Degree,Idaho,Asian,Unknown,Liberal,Registered,Gay,Non-Veteran,1,Undecided,Low,Trustful,Excellent,Fair,Hindu,Non-Possessor
+Democrat,70,195000,Self-employed,Female,Married,Doctoral Degree,Connecticut,Asian,Northeast,Socialist,Registered,Heterosexual,Non-Veteran,2,Unlikely,Middle,Neutral,Poor,Good,Christian,Non-Possessor
+Republican,51,60000,Employed,Non-Binary,Divorced,High School,Connecticut,White,Northeast,Progressive,Registered,Heterosexual,Non-Veteran,0,Unlikely,Middle,Neutral,Fair,Good,Christian,Possessor
+Republican,64,25000,Self-employed,Female,Married,High School,Texas,White,South,Libertarian,Registered,Heterosexual,Veteran,4,Unlikely,High,Neutral,Poor,Poor,Christian,Possessor
+Democrat,48,135000,Self-employed,Non-Binary,Divorced,Bachelor's Degree,Colorado,Other,Unknown,Socialist,Registered,Heterosexual,Non-Veteran,5,Likely,Middle,Trustful,Excellent,Poor,Christian,Possessor
+Democrat,40,80000,Employed,Female,Divorced,Doctoral Degree,Oklahoma,Hispanic,South,Libertarian,Registered,Heterosexual,Non-Veteran,3,Undecided,Middle,Trustful,Poor,Fair,Christian,Non-Possessor
+Republican,66,220000,Self-employed,Female,Divorced,Bachelor's Degree,New Mexico,White,Unknown,Libertarian,Registered,Heterosexual,Non-Veteran,0,Undecided,Middle,Trustful,Fair,Good,Christian,Non-Possessor
+Democrat,78,80000,Self-employed,Male,Single,Associate Degree,Oklahoma,White,South,Conservative,Registered,Heterosexual,Non-Veteran,3,Likely,Low,Neutral,Poor,Poor,Jewish,Non-Possessor
+Democrat,33,180000,Retired,Female,Single,Doctoral Degree,Oregon,Black,West Coast,Conservative,Registered,Heterosexual,Non-Veteran,3,Likely,High,Neutral,Good,Excellent,Christian,Non-Possessor
+Democrat,26,30000,Student,Male,Single,High School,Idaho,Other,Unknown,Socialist,Registered,Heterosexual,Non-Veteran,4,Likely,Low,Trustful,Fair,Good,Christian,Non-Possessor
+Republican,60,320000,Employed,Female,Widowed,Associate Degree,Arkansas,Hispanic,South,Centrist,Registered,Heterosexual,Non-Veteran,2,Likely,Low,Distrustful,Good,Fair,Christian,Non-Possessor
+Democrat,27,215000,Employed,Female,Divorced,Master's Degree,Pennsylvania,Hispanic,Northeast,Socialist,Registered,Heterosexual,Veteran,3,Likely,High,Trustful,Excellent,Poor,Christian,Possessor
+Democrat,52,160000,Student,Female,Single,Associate Degree,Florida,White,South,Centrist,Registered,Heterosexual,Non-Veteran,0,Likely,Middle,Neutral,Good,Fair,Muslim,Possessor
+Democrat,59,280000,Self-employed,Female,Married,Bachelor's Degree,Kentucky,Other,South,Socialist,Registered,Heterosexual,Non-Veteran,3,Undecided,Low,Trustful,Poor,Excellent,Christian,Non-Possessor
+Democrat,23,320000,Retired,Female,Divorced,Doctoral Degree,Louisiana,Black,South,Socialist,Registered,Heterosexual,Non-Veteran,1,Undecided,Low,Trustful,Excellent,Excellent,Christian,Non-Possessor
+Democrat,30,25000,Student,Female,Divorced,Bachelor's Degree,Idaho,Hispanic,Unknown,Liberal,Registered,Heterosexual,Non-Veteran,2,Undecided,Low,Distrustful,Poor,Excellent,Christian,Non-Possessor
+Democrat,62,295000,Employed,Female,Married,Bachelor's Degree,New York,Hispanic,Northeast,Progressive,Registered,Heterosexual,Non-Veteran,2,Likely,High,Trustful,Excellent,Excellent,Muslim,Non-Possessor
+Democrat,34,205000,Unemployed,Female,Single,Master's Degree,Idaho,White,Unknown,Socialist,Registered,Gay,Non-Veteran,0,Undecided,Low,Neutral,Fair,Poor,Hindu,Possessor
+Republican,25,235000,Unemployed,Male,Married,Bachelor's Degree,Wyoming,White,Unknown,Progressive,Registered,Heterosexual,Non-Veteran,4,Undecided,Middle,Distrustful,Poor,Fair,Christian,Possessor
+Democrat,65,40000,Student,Male,Married,Master's Degree,Illinois,Black,Midwest,Centrist,Registered,Heterosexual,Non-Veteran,0,Unlikely,High,Distrustful,Poor,Poor,Jewish,Possessor
+Democrat,25,175000,Unemployed,Male,Widowed,Doctoral Degree,Rhode Island,Other,Northeast,Progressive,Registered,Heterosexual,Veteran,2,Unlikely,Low,Distrustful,Excellent,Fair,Christian,Non-Possessor
+Democrat,64,85000,Unemployed,Male,Divorced,Master's Degree,Wisconsin,Hispanic,Midwest,Socialist,Registered,Heterosexual,Non-Veteran,2,Unlikely,High,Trustful,Excellent,Excellent,Christian,Non-Possessor
+Democrat,52,60000,Self-employed,Male,Divorced,Doctoral Degree,New Jersey,Black,Northeast,Progressive,Registered,Heterosexual,Non-Veteran,1,Likely,Middle,Trustful,Excellent,Excellent,Jewish,Possessor
+Republican,68,300000,Self-employed,Female,Married,Associate Degree,Nebraska,Other,Unknown,Conservative,Registered,Heterosexual,Non-Veteran,1,Unlikely,High,Trustful,Poor,Excellent,Christian,Non-Possessor
+Democrat,25,25000,Unemployed,Female,Divorced,Doctoral Degree,California,Black,West Coast,Liberal,Registered,Heterosexual,Non-Veteran,1,Undecided,High,Neutral,Good,Poor,Jewish,Non-Possessor
+Republican,66,325000,Employed,Male,Married,Doctoral Degree,New York,Hispanic,Northeast,Liberal,Registered,Heterosexual,Non-Veteran,1,Likely,Low,Distrustful,Excellent,Excellent,Christian,Non-Possessor
+Republican,51,235000,Retired,Male,Divorced,Associate Degree,Minnesota,Black,Midwest,Conservative,Registered,Heterosexual,Non-Veteran,3,Likely,High,Trustful,Poor,Excellent,Jewish,Non-Possessor
+Democrat,61,35000,Student,Female,Single,Doctoral Degree,Louisiana,Hispanic,South,Liberal,Registered,Heterosexual,Non-Veteran,5,Undecided,Middle,Trustful,Poor,Good,Christian,Non-Possessor
+Democrat,70,215000,Retired,Female,Widowed,Master's Degree,New York,Hispanic,Northeast,Liberal,Registered,Heterosexual,Non-Veteran,1,Undecided,Low,Neutral,Poor,Excellent,Jewish,Possessor
+Republican,78,330000,Retired,Male,Married,Master's Degree,Ohio,Black,Midwest,Centrist,Registered,Heterosexual,Veteran,1,Unlikely,Low,Neutral,Excellent,Good,Christian,Non-Possessor
+Republican,65,225000,Unemployed,Male,Divorced,Master's Degree,Oklahoma,White,South,Conservative,Registered,Heterosexual,Non-Veteran,5,Undecided,Middle,Neutral,Good,Excellent,Christian,Non-Possessor
+Democrat,70,155000,Student,Female,Married,Bachelor's Degree,Hawaii,Other,Unknown,Progressive,Registered,Gay,Veteran,0,Likely,Middle,Distrustful,Fair,Poor,Muslim,Possessor
+Republican,51,295000,Employed,Male,Single,Doctoral Degree,Indiana,Black,Midwest,Progressive,Registered,Heterosexual,Non-Veteran,3,Unlikely,Middle,Distrustful,Excellent,Good,Christian,Possessor
+Republican,19,220000,Employed,Female,Divorced,High School,New Mexico,Black,Unknown,Libertarian,Registered,Heterosexual,Non-Veteran,0,Undecided,Middle,Neutral,Excellent,Poor,Jewish,Non-Possessor
+Democrat,27,345000,Self-employed,Female,Widowed,Associate Degree,Oklahoma,Black,South,Socialist,Registered,Heterosexual,Non-Veteran,5,Unlikely,Middle,Distrustful,Poor,Excellent,Muslim,Possessor
+Republican,38,290000,Unemployed,Male,Married,High School,Illinois,Other,Midwest,Liberal,Registered,Heterosexual,Non-Veteran,4,Unlikely,Middle,Distrustful,Fair,Poor,Christian,Non-Possessor
+Republican,57,125000,Student,Male,Single,Associate Degree,Wisconsin,White,Midwest,Libertarian,Registered,Heterosexual,Non-Veteran,3,Unlikely,Low,Neutral,Good,Good,Christian,Non-Possessor
+Democrat,20,45000,Self-employed,Female,Widowed,High School,California,White,West Coast,Libertarian,Registered,Gay,Veteran,1,Unlikely,Low,Trustful,Poor,Poor,Christian,Non-Possessor
+Republican,56,195000,Self-employed,Male,Widowed,Doctoral Degree,Connecticut,Hispanic,Northeast,Conservative,Registered,Heterosexual,Non-Veteran,1,Likely,High,Neutral,Good,Good,Christian,Non-Possessor
+Democrat,77,45000,Student,Female,Single,Master's Degree,Pennsylvania,Asian,Northeast,Libertarian,Registered,Heterosexual,Non-Veteran,5,Likely,Low,Neutral,Poor,Excellent,Hindu,Non-Possessor
+Republican,78,140000,Self-employed,Male,Single,High School,Maryland,Other,South,Liberal,Registered,Heterosexual,Non-Veteran,0,Likely,Low,Distrustful,Poor,Poor,Christian,Non-Possessor
+Democrat,54,15000,Unemployed,Male,Widowed,Associate Degree,Oregon,Asian,West Coast,Progressive,Registered,Heterosexual,Non-Veteran,1,Likely,Middle,Trustful,Good,Poor,Christian,Possessor
+Democrat,39,305000,Student,Female,Married,Doctoral Degree,West Virginia,Asian,South,Socialist,Registered,Heterosexual,Non-Veteran,3,Unlikely,High,Distrustful,Poor,Fair,Christian,Possessor
+Republican,76,245000,Employed,Female,Divorced,Master's Degree,Alabama,Other,South,Libertarian,Registered,Heterosexual,Non-Veteran,4,Likely,High,Distrustful,Fair,Fair,Christian,Non-Possessor
+Democrat,49,185000,Student,Female,Widowed,Master's Degree,Illinois,Hispanic,Midwest,Progressive,Registered,Heterosexual,Non-Veteran,3,Unlikely,Middle,Distrustful,Poor,Good,Christian,Non-Possessor
+Democrat,32,20000,Student,Female,Single,Associate Degree,Maine,Other,Northeast,Libertarian,Registered,Heterosexual,Non-Veteran,1,Unlikely,Low,Distrustful,Poor,Excellent,Christian,Possessor
+Republican,37,265000,Retired,Male,Single,Master's Degree,California,White,West Coast,Conservative,Registered,Gay,Non-Veteran,1,Unlikely,High,Neutral,Poor,Excellent,Christian,Non-Possessor
+Democrat,33,115000,Employed,Female,Widowed,Master's Degree,South Dakota,Asian,Unknown,Centrist,Registered,Heterosexual,Non-Veteran,2,Undecided,High,Distrustful,Fair,Fair,Christian,Non-Possessor
+Democrat,41,75000,Employed,Female,Single,Doctoral Degree,Maryland,Other,South,Liberal,Registered,Heterosexual,Non-Veteran,2,Likely,High,Distrustful,Poor,Good,Jewish,Possessor
+Democrat,21,285000,Employed,Female,Married,Doctoral Degree,Arizona,Asian,Unknown,Socialist,Registered,Heterosexual,Veteran,1,Likely,High,Distrustful,Fair,Poor,Christian,Non-Possessor
+Republican,46,305000,Self-employed,Female,Married,Bachelor's Degree,Alabama,Other,South,Progressive,Registered,Heterosexual,Non-Veteran,3,Undecided,High,Neutral,Good,Poor,Christian,Non-Possessor
+Democrat,42,160000,Employed,Female,Divorced,Master's Degree,Indiana,Hispanic,Midwest,Liberal,Registered,Heterosexual,Non-Veteran,1,Likely,Middle,Neutral,Fair,Poor,Christian,Non-Possessor
+Democrat,49,150000,Self-employed,Male,Single,Master's Degree,South Dakota,Black,Unknown,Centrist,Registered,Heterosexual,Non-Veteran,2,Unlikely,Low,Neutral,Good,Poor,Christian,Possessor
+Republican,79,200000,Retired,Male,Single,Master's Degree,Indiana,Black,Midwest,Conservative,Registered,Heterosexual,Non-Veteran,0,Undecided,Low,Neutral,Good,Good,Christian,Non-Possessor
+Republican,63,295000,Retired,Male,Widowed,Bachelor's Degree,Connecticut,White,Northeast,Conservative,Registered,Heterosexual,Veteran,5,Unlikely,Middle,Distrustful,Poor,Poor,Christian,Possessor
+Democrat,37,300000,Self-employed,Male,Single,Associate Degree,Idaho,White,Unknown,Liberal,Registered,Gay,Non-Veteran,2,Likely,High,Distrustful,Excellent,Fair,Christian,Non-Possessor
+Democrat,19,50000,Employed,Female,Divorced,Associate Degree,Virginia,Black,South,Conservative,Registered,Heterosexual,Non-Veteran,1,Undecided,Middle,Trustful,Good,Fair,Jewish,Non-Possessor
+Republican,41,290000,Unemployed,Male,Widowed,High School,Maryland,Hispanic,South,Liberal,Registered,Gay,Non-Veteran,0,Undecided,Low,Distrustful,Poor,Excellent,Christian,Non-Possessor
+Republican,51,325000,Self-employed,Female,Divorced,Bachelor's Degree,North Carolina,Asian,South,Libertarian,Registered,Heterosexual,Non-Veteran,2,Undecided,High,Neutral,Good,Excellent,Hindu,Non-Possessor
+Democrat,44,145000,Retired,Non-Binary,Single,Master's Degree,Maine,Hispanic,Northeast,Conservative,Registered,Heterosexual,Non-Veteran,1,Unlikely,Low,Trustful,Poor,Good,Christian,Non-Possessor
+Republican,19,300000,Self-employed,Female,Widowed,Master's Degree,Alabama,Other,South,Socialist,Registered,Heterosexual,Non-Veteran,5,Likely,Middle,Neutral,Excellent,Good,Christian,Non-Possessor
+Republican,31,270000,Self-employed,Male,Divorced,Doctoral Degree,South Carolina,Black,South,Conservative,Registered,Heterosexual,Non-Veteran,3,Likely,Low,Distrustful,Fair,Excellent,Christian,Possessor
+Democrat,68,335000,Unemployed,Female,Divorced,Doctoral Degree,Florida,Black,South,Conservative,Registered,Heterosexual,Non-Veteran,3,Likely,Middle,Neutral,Poor,Excellent,Hindu,Non-Possessor
+Democrat,43,50000,Retired,Male,Divorced,High School,Wyoming,Other,Unknown,Socialist,Registered,Heterosexual,Non-Veteran,4,Unlikely,Low,Trustful,Fair,Fair,Christian,Non-Possessor
+Democrat,19,280000,Student,Male,Widowed,Associate Degree,Oregon,Asian,West Coast,Conservative,Registered,Heterosexual,Non-Veteran,4,Unlikely,Low,Trustful,Good,Poor,Hindu,Non-Possessor
+Democrat,51,120000,Employed,Female,Widowed,Associate Degree,California,Hispanic,West Coast,Progressive,Registered,Heterosexual,Non-Veteran,3,Undecided,Low,Neutral,Good,Good,Christian,Possessor
+Republican,57,25000,Student,Male,Divorced,Master's Degree,West Virginia,White,South,Centrist,Registered,Gay,Non-Veteran,0,Undecided,High,Trustful,Poor,Good,Christian,Non-Possessor
+Democrat,27,130000,Self-employed,Female,Divorced,Doctoral Degree,Arizona,Asian,Unknown,Liberal,Registered,Gay,Non-Veteran,2,Undecided,Low,Distrustful,Excellent,Good,Christian,Non-Possessor
+Republican,60,35000,Self-employed,Female,Married,Associate Degree,Louisiana,Asian,South,Progressive,Registered,Heterosexual,Non-Veteran,0,Unlikely,Middle,Distrustful,Excellent,Fair,Christian,Non-Possessor
+Republican,39,110000,Retired,Female,Widowed,Doctoral Degree,Nebraska,Asian,Unknown,Conservative,Registered,Heterosexual,Non-Veteran,0,Unlikely,High,Neutral,Excellent,Good,Christian,Non-Possessor
+Democrat,20,170000,Employed,Male,Divorced,Doctoral Degree,Nebraska,Hispanic,Unknown,Conservative,Registered,Heterosexual,Non-Veteran,3,Undecided,Middle,Trustful,Excellent,Excellent,Jewish,Non-Possessor
+Republican,65,60000,Retired,Male,Single,Doctoral Degree,New York,Other,Northeast,Libertarian,Registered,Heterosexual,Non-Veteran,3,Undecided,Middle,Distrustful,Good,Excellent,Christian,Possessor
+Republican,67,110000,Student,Female,Divorced,Doctoral Degree,Washington,Black,West Coast,Conservative,Registered,Heterosexual,Non-Veteran,5,Likely,High,Trustful,Good,Excellent,Christian,Non-Possessor
+Democrat,24,185000,Student,Female,Divorced,High School,New York,Black,Northeast,Libertarian,Registered,Heterosexual,Veteran,3,Undecided,High,Neutral,Fair,Fair,Muslim,Non-Possessor
+Republican,53,245000,Student,Female,Widowed,Doctoral Degree,West Virginia,Other,South,Libertarian,Registered,Heterosexual,Non-Veteran,4,Undecided,High,Neutral,Fair,Fair,Christian,Non-Possessor
+Republican,67,205000,Student,Male,Single,Master's Degree,Kentucky,Hispanic,South,Conservative,Registered,Heterosexual,Non-Veteran,5,Undecided,Middle,Distrustful,Good,Good,Muslim,Non-Possessor
+Republican,46,215000,Student,Male,Widowed,Doctoral Degree,Wyoming,Asian,Unknown,Liberal,Registered,Heterosexual,Veteran,5,Likely,High,Neutral,Excellent,Fair,Hindu,Non-Possessor
+Republican,57,205000,Retired,Female,Married,Doctoral Degree,Arizona,Other,Unknown,Centrist,Registered,Heterosexual,Veteran,3,Likely,High,Distrustful,Fair,Excellent,Christian,Non-Possessor
+Democrat,60,235000,Self-employed,Female,Divorced,Master's Degree,Washington,Hispanic,West Coast,Liberal,Registered,Heterosexual,Non-Veteran,5,Unlikely,Middle,Neutral,Excellent,Fair,Hindu,Possessor
+Republican,40,80000,Retired,Male,Widowed,Associate Degree,Colorado,Black,Unknown,Centrist,Registered,Heterosexual,Non-Veteran,4,Unlikely,Middle,Distrustful,Fair,Excellent,Christian,Non-Possessor
+Democrat,63,75000,Retired,Non-Binary,Single,Master's Degree,Vermont,Other,Northeast,Socialist,Registered,Heterosexual,Veteran,3,Likely,Middle,Neutral,Excellent,Poor,Christian,Possessor
+Democrat,47,70000,Unemployed,Female,Single,Associate Degree,Maryland,Black,South,Liberal,Registered,Heterosexual,Non-Veteran,5,Unlikely,Middle,Distrustful,Poor,Excellent,Christian,Non-Possessor
+Democrat,41,305000,Student,Male,Married,Doctoral Degree,Hawaii,Asian,Unknown,Progressive,Registered,Heterosexual,Non-Veteran,2,Likely,Middle,Trustful,Poor,Good,Jewish,Non-Possessor
+Democrat,21,340000,Unemployed,Male,Single,High School,New Jersey,White,Northeast,Centrist,Registered,Heterosexual,Non-Veteran,4,Unlikely,Middle,Neutral,Excellent,Poor,Hindu,Non-Possessor
+Democrat,77,250000,Unemployed,Female,Married,Doctoral Degree,Indiana,White,Midwest,Socialist,Registered,Heterosexual,Non-Veteran,1,Likely,High,Distrustful,Good,Poor,Jewish,Non-Possessor
+Democrat,46,250000,Retired,Male,Divorced,Master's Degree,Oregon,Black,West Coast,Progressive,Registered,Heterosexual,Non-Veteran,4,Unlikely,Low,Neutral,Fair,Excellent,Christian,Possessor
+Republican,68,185000,Employed,Female,Married,Doctoral Degree,Oklahoma,Black,South,Centrist,Registered,Heterosexual,Non-Veteran,3,Unlikely,High,Trustful,Poor,Good,Christian,Non-Possessor
+Democrat,65,250000,Unemployed,Male,Married,Bachelor's Degree,Illinois,Hispanic,Midwest,Liberal,Registered,Gay,Non-Veteran,4,Undecided,Low,Distrustful,Poor,Fair,Christian,Possessor
+Democrat,35,40000,Retired,Non-Binary,Married,Master's Degree,Nevada,White,Unknown,Socialist,Registered,Heterosexual,Non-Veteran,5,Undecided,High,Distrustful,Fair,Poor,Christian,Non-Possessor
+Democrat,73,15000,Unemployed,Female,Divorced,High School,Texas,Hispanic,South,Conservative,Registered,Heterosexual,Non-Veteran,1,Likely,Low,Distrustful,Fair,Good,Christian,Non-Possessor
+Republican,37,155000,Employed,Female,Single,Bachelor's Degree,Alabama,White,South,Libertarian,Registered,Heterosexual,Non-Veteran,0,Undecided,High,Neutral,Excellent,Fair,Christian,Non-Possessor
+Republican,73,205000,Employed,Female,Married,High School,Maryland,Hispanic,South,Liberal,Registered,Heterosexual,Non-Veteran,4,Likely,High,Neutral,Poor,Fair,Muslim,Non-Possessor
+Republican,79,35000,Student,Male,Single,High School,Montana,Black,Unknown,Libertarian,Registered,Heterosexual,Non-Veteran,1,Likely,Middle,Neutral,Excellent,Excellent,Hindu,Non-Possessor
+Democrat,45,130000,Unemployed,Female,Married,Master's Degree,North Dakota,Asian,Unknown,Conservative,Registered,Heterosexual,Non-Veteran,0,Undecided,Low,Trustful,Excellent,Fair,Christian,Non-Possessor
+Democrat,69,335000,Employed,Female,Widowed,High School,Washington,Other,West Coast,Liberal,Registered,Heterosexual,Non-Veteran,4,Unlikely,Middle,Neutral,Fair,Poor,Hindu,Non-Possessor
+Republican,28,320000,Self-employed,Male,Divorced,Doctoral Degree,Oregon,White,West Coast,Libertarian,Registered,Heterosexual,Veteran,0,Undecided,High,Distrustful,Excellent,Fair,Christian,Possessor
+Republican,51,325000,Retired,Female,Single,Doctoral Degree,Delaware,White,South,Centrist,Registered,Heterosexual,Non-Veteran,3,Likely,High,Neutral,Excellent,Excellent,Christian,Non-Possessor
+Republican,46,230000,Employed,Male,Widowed,Doctoral Degree,Colorado,Other,Unknown,Libertarian,Registered,Heterosexual,Non-Veteran,2,Undecided,Middle,Neutral,Good,Poor,Christian,Possessor
+Republican,69,175000,Employed,Female,Married,Bachelor's Degree,Pennsylvania,Black,Northeast,Conservative,Registered,Gay,Non-Veteran,4,Unlikely,Low,Distrustful,Good,Good,Christian,Possessor
+Republican,59,40000,Employed,Male,Married,High School,North Carolina,Hispanic,South,Centrist,Registered,Heterosexual,Veteran,5,Undecided,Low,Neutral,Poor,Fair,Christian,Non-Possessor
+Democrat,30,50000,Retired,Male,Single,Master's Degree,Delaware,Black,South,Centrist,Registered,Heterosexual,Non-Veteran,2,Unlikely,Low,Trustful,Excellent,Fair,Christian,Possessor
+Republican,75,230000,Self-employed,Male,Single,Master's Degree,Utah,Hispanic,Unknown,Progressive,Registered,Heterosexual,Non-Veteran,0,Undecided,High,Distrustful,Good,Fair,Muslim,Non-Possessor
+Democrat,63,55000,Retired,Female,Single,Associate Degree,California,Asian,West Coast,Centrist,Registered,Heterosexual,Non-Veteran,3,Likely,High,Trustful,Fair,Excellent,Christian,Non-Possessor
+Democrat,69,45000,Student,Female,Married,Master's Degree,Louisiana,Black,South,Libertarian,Registered,Heterosexual,Non-Veteran,2,Unlikely,Low,Neutral,Good,Excellent,Christian,Possessor
+Republican,51,155000,Retired,Male,Widowed,Doctoral Degree,Oklahoma,White,South,Libertarian,Registered,Heterosexual,Non-Veteran,4,Undecided,Low,Neutral,Excellent,Excellent,Christian,Non-Possessor
+Democrat,74,245000,Employed,Female,Divorced,Associate Degree,Utah,Other,Unknown,Conservative,Registered,Heterosexual,Non-Veteran,1,Unlikely,Middle,Neutral,Poor,Poor,Christian,Possessor
+Democrat,43,95000,Student,Female,Single,Master's Degree,Wyoming,Hispanic,Unknown,Libertarian,Registered,Heterosexual,Non-Veteran,0,Unlikely,Low,Neutral,Excellent,Good,Christian,Possessor
+Democrat,35,125000,Retired,Male,Widowed,Doctoral Degree,Alaska,Hispanic,Unknown,Progressive,Registered,Heterosexual,Non-Veteran,2,Unlikely,Low,Distrustful,Good,Good,Muslim,Non-Possessor
+Democrat,29,20000,Self-employed,Male,Widowed,Associate Degree,Delaware,Hispanic,South,Progressive,Registered,Heterosexual,Non-Veteran,2,Likely,High,Distrustful,Poor,Poor,Christian,Non-Possessor
+Democrat,69,200000,Retired,Male,Widowed,Associate Degree,Connecticut,Black,Northeast,Centrist,Registered,Heterosexual,Non-Veteran,3,Unlikely,Middle,Trustful,Poor,Good,Hindu,Non-Possessor
+Democrat,46,200000,Unemployed,Female,Divorced,High School,California,Black,West Coast,Liberal,Registered,Heterosexual,Non-Veteran,4,Undecided,Low,Neutral,Good,Fair,Hindu,Possessor
+Republican,66,290000,Unemployed,Male,Single,Bachelor's Degree,Wyoming,White,Unknown,Socialist,Registered,Heterosexual,Non-Veteran,5,Unlikely,High,Distrustful,Excellent,Excellent,Christian,Possessor
+Republican,58,60000,Self-employed,Female,Married,High School,Wyoming,Black,Unknown,Conservative,Registered,Heterosexual,Non-Veteran,3,Likely,Middle,Neutral,Poor,Good,Christian,Non-Possessor
+Democrat,52,185000,Unemployed,Male,Widowed,Doctoral Degree,Idaho,Other,Unknown,Liberal,Registered,Heterosexual,Non-Veteran,1,Unlikely,Middle,Neutral,Poor,Good,Christian,Possessor
+Democrat,64,140000,Self-employed,Non-Binary,Widowed,Master's Degree,West Virginia,Hispanic,South,Socialist,Registered,Heterosexual,Non-Veteran,1,Unlikely,Low,Neutral,Excellent,Fair,Christian,Non-Possessor
+Republican,68,335000,Student,Male,Divorced,Master's Degree,Louisiana,Hispanic,South,Centrist,Registered,Heterosexual,Non-Veteran,4,Likely,Low,Trustful,Good,Excellent,Christian,Non-Possessor
+Democrat,19,340000,Student,Female,Widowed,High School,Maine,Black,Northeast,Conservative,Registered,Heterosexual,Non-Veteran,5,Likely,Middle,Distrustful,Excellent,Fair,Hindu,Non-Possessor
+Democrat,47,225000,Unemployed,Female,Married,Associate Degree,South Carolina,Black,South,Libertarian,Registered,Heterosexual,Veteran,3,Undecided,Low,Trustful,Poor,Good,Jewish,Non-Possessor
+Republican,24,240000,Student,Female,Divorced,High School,Nebraska,Hispanic,Unknown,Centrist,Registered,Heterosexual,Non-Veteran,0,Likely,High,Distrustful,Excellent,Excellent,Jewish,Possessor
+Democrat,18,70000,Retired,Male,Divorced,Doctoral Degree,Virginia,Hispanic,South,Socialist,Registered,Heterosexual,Non-Veteran,2,Likely,High,Neutral,Good,Excellent,Muslim,Non-Possessor
+Democrat,49,260000,Unemployed,Female,Married,Master's Degree,South Carolina,Asian,South,Liberal,Registered,Heterosexual,Non-Veteran,1,Unlikely,Middle,Distrustful,Good,Fair,Christian,Non-Possessor
+Republican,56,195000,Self-employed,Male,Widowed,High School,Wisconsin,White,Midwest,Socialist,Registered,Heterosexual,Non-Veteran,4,Unlikely,Low,Distrustful,Good,Excellent,Christian,Non-Possessor
+Republican,77,195000,Employed,Female,Single,Doctoral Degree,Iowa,Other,Midwest,Libertarian,Registered,Heterosexual,Non-Veteran,5,Likely,High,Neutral,Fair,Good,Christian,Possessor
+Democrat,76,155000,Retired,Male,Single,Doctoral Degree,Oregon,Other,West Coast,Liberal,Registered,Heterosexual,Non-Veteran,5,Undecided,Low,Trustful,Poor,Poor,Christian,Non-Possessor
+Democrat,69,295000,Student,Non-Binary,Divorced,Bachelor's Degree,Tennessee,Hispanic,South,Libertarian,Registered,Heterosexual,Non-Veteran,1,Likely,High,Trustful,Excellent,Fair,Christian,Non-Possessor
+Republican,58,30000,Unemployed,Female,Single,Associate Degree,Delaware,Hispanic,South,Libertarian,Registered,Heterosexual,Non-Veteran,0,Undecided,Middle,Trustful,Good,Good,Christian,Non-Possessor
+Democrat,24,35000,Unemployed,Female,Widowed,Associate Degree,Hawaii,White,Unknown,Libertarian,Registered,Heterosexual,Non-Veteran,5,Unlikely,Low,Distrustful,Poor,Poor,Christian,Non-Possessor
+Democrat,40,15000,Student,Male,Married,Doctoral Degree,Nebraska,Other,Unknown,Centrist,Registered,Heterosexual,Non-Veteran,2,Undecided,Low,Distrustful,Excellent,Good,Christian,Possessor
+Democrat,36,275000,Unemployed,Female,Widowed,Bachelor's Degree,West Virginia,Asian,South,Progressive,Registered,Heterosexual,Non-Veteran,0,Unlikely,Low,Neutral,Good,Good,Christian,Possessor
+Republican,72,215000,Student,Male,Widowed,High School,Maryland,Black,South,Libertarian,Registered,Gay,Non-Veteran,5,Likely,Middle,Trustful,Poor,Excellent,Christian,Non-Possessor
+Republican,76,310000,Student,Male,Divorced,Bachelor's Degree,New Mexico,Hispanic,Unknown,Libertarian,Registered,Heterosexual,Non-Veteran,1,Unlikely,High,Trustful,Excellent,Excellent,Christian,Possessor
+Republican,46,175000,Self-employed,Female,Widowed,High School,Montana,Asian,Unknown,Centrist,Registered,Heterosexual,Non-Veteran,4,Undecided,Low,Neutral,Excellent,Excellent,Christian,Possessor
+Republican,53,135000,Self-employed,Female,Widowed,Bachelor's Degree,Oregon,Black,West Coast,Libertarian,Registered,Heterosexual,Non-Veteran,4,Likely,High,Neutral,Fair,Good,Christian,Non-Possessor
+Republican,71,300000,Retired,Female,Widowed,Bachelor's Degree,Texas,Other,South,Centrist,Registered,Heterosexual,Non-Veteran,3,Undecided,Low,Neutral,Excellent,Excellent,Jewish,Non-Possessor
+Republican,27,50000,Retired,Female,Married,High School,New Jersey,Other,Northeast,Centrist,Registered,Heterosexual,Veteran,5,Undecided,High,Distrustful,Poor,Good,Muslim,Non-Possessor
+Republican,63,320000,Retired,Male,Widowed,Bachelor's Degree,Utah,Hispanic,Unknown,Progressive,Registered,Heterosexual,Non-Veteran,2,Likely,Middle,Distrustful,Poor,Excellent,Christian,Non-Possessor
+Democrat,29,235000,Retired,Male,Divorced,Doctoral Degree,Washington,Asian,West Coast,Progressive,Registered,Heterosexual,Non-Veteran,4,Likely,High,Trustful,Fair,Poor,Hindu,Non-Possessor
+Republican,37,120000,Employed,Male,Widowed,Associate Degree,Colorado,Black,Unknown,Libertarian,Registered,Heterosexual,Non-Veteran,3,Undecided,Middle,Trustful,Good,Excellent,Christian,Possessor
+Republican,26,265000,Retired,Male,Married,Associate Degree,Arizona,Asian,Unknown,Socialist,Registered,Heterosexual,Non-Veteran,4,Undecided,Low,Distrustful,Poor,Poor,Christian,Non-Possessor
+Republican,71,160000,Retired,Male,Married,Doctoral Degree,California,Asian,West Coast,Libertarian,Registered,Heterosexual,Non-Veteran,3,Undecided,High,Distrustful,Good,Fair,Muslim,Non-Possessor
+Democrat,23,220000,Self-employed,Male,Single,Master's Degree,Ohio,Other,Midwest,Conservative,Registered,Heterosexual,Veteran,0,Unlikely,Middle,Trustful,Poor,Poor,Hindu,Possessor
+Democrat,18,170000,Employed,Non-Binary,Widowed,Doctoral Degree,Montana,Hispanic,Unknown,Socialist,Registered,Heterosexual,Non-Veteran,0,Undecided,Low,Neutral,Good,Fair,Christian,Possessor
+Republican,56,20000,Employed,Male,Married,High School,California,Other,West Coast,Socialist,Registered,Heterosexual,Non-Veteran,5,Likely,Middle,Neutral,Excellent,Fair,Muslim,Non-Possessor
+Democrat,39,195000,Unemployed,Female,Married,Master's Degree,South Dakota,White,Unknown,Centrist,Registered,Heterosexual,Non-Veteran,0,Unlikely,Low,Trustful,Good,Poor,Muslim,Non-Possessor
+Republican,74,125000,Self-employed,Male,Divorced,Doctoral Degree,Missouri,Other,Midwest,Conservative,Registered,Heterosexual,Non-Veteran,5,Unlikely,High,Distrustful,Poor,Fair,Christian,Non-Possessor
+Republican,41,340000,Retired,Non-Binary,Single,Doctoral Degree,Delaware,Black,South,Libertarian,Registered,Heterosexual,Non-Veteran,5,Unlikely,Middle,Trustful,Good,Excellent,Muslim,Non-Possessor
+Republican,27,150000,Self-employed,Male,Married,Master's Degree,West Virginia,White,South,Socialist,Registered,Heterosexual,Non-Veteran,5,Likely,Low,Distrustful,Fair,Poor,Christian,Non-Possessor
+Republican,64,160000,Unemployed,Male,Widowed,Associate Degree,Florida,Asian,South,Libertarian,Registered,Heterosexual,Non-Veteran,4,Unlikely,High,Neutral,Fair,Excellent,Christian,Non-Possessor
+Republican,64,75000,Employed,Male,Widowed,Associate Degree,Vermont,Black,Northeast,Conservative,Registered,Heterosexual,Non-Veteran,5,Likely,Low,Neutral,Excellent,Good,Hindu,Non-Possessor
+Republican,23,265000,Employed,Male,Widowed,High School,Minnesota,Other,Midwest,Liberal,Registered,Heterosexual,Non-Veteran,4,Undecided,Low,Distrustful,Fair,Fair,Christian,Non-Possessor
+Democrat,41,230000,Retired,Female,Married,Master's Degree,Arizona,Hispanic,Unknown,Liberal,Registered,Heterosexual,Non-Veteran,1,Likely,Low,Distrustful,Fair,Good,Christian,Possessor
+Democrat,19,225000,Self-employed,Male,Single,Doctoral Degree,Georgia,Other,South,Socialist,Registered,Heterosexual,Non-Veteran,1,Undecided,Middle,Neutral,Excellent,Good,Hindu,Non-Possessor
+Republican,69,305000,Employed,Male,Divorced,Doctoral Degree,Utah,Asian,Unknown,Liberal,Registered,Heterosexual,Non-Veteran,3,Undecided,Middle,Neutral,Good,Excellent,Christian,Non-Possessor
+Democrat,68,110000,Student,Male,Widowed,Master's Degree,New York,Other,Northeast,Progressive,Registered,Heterosexual,Non-Veteran,2,Likely,Low,Trustful,Fair,Poor,Christian,Possessor
+Democrat,24,220000,Student,Female,Divorced,High School,New York,Hispanic,Northeast,Libertarian,Registered,Heterosexual,Non-Veteran,5,Undecided,Low,Trustful,Excellent,Fair,Jewish,Non-Possessor
+Democrat,61,90000,Employed,Female,Divorced,Bachelor's Degree,Mississippi,White,South,Liberal,Registered,Heterosexual,Non-Veteran,1,Likely,High,Trustful,Poor,Poor,Christian,Non-Possessor
+Republican,42,275000,Employed,Male,Divorced,High School,Indiana,Asian,Midwest,Conservative,Registered,Heterosexual,Non-Veteran,1,Undecided,Middle,Distrustful,Poor,Good,Christian,Non-Possessor
+Republican,43,190000,Student,Male,Married,Doctoral Degree,Wisconsin,White,Midwest,Libertarian,Registered,Heterosexual,Non-Veteran,1,Undecided,Low,Distrustful,Good,Poor,Christian,Non-Possessor
+Republican,27,65000,Student,Male,Widowed,Master's Degree,Nevada,White,Unknown,Libertarian,Registered,Heterosexual,Non-Veteran,2,Undecided,High,Distrustful,Poor,Good,Christian,Non-Possessor
+Republican,77,310000,Unemployed,Male,Married,Associate Degree,Tennessee,White,South,Libertarian,Registered,Heterosexual,Non-Veteran,4,Likely,Low,Distrustful,Fair,Poor,Christian,Non-Possessor
+Democrat,74,165000,Unemployed,Male,Widowed,High School,New Jersey,White,Northeast,Centrist,Registered,Heterosexual,Non-Veteran,2,Likely,High,Trustful,Fair,Good,Jewish,Non-Possessor
+Republican,43,195000,Student,Male,Married,Associate Degree,Massachusetts,White,Northeast,Libertarian,Registered,Heterosexual,Non-Veteran,2,Likely,High,Distrustful,Good,Fair,Christian,Non-Possessor
+Democrat,44,335000,Retired,Female,Married,Bachelor's Degree,Alaska,Asian,Unknown,Socialist,Registered,Heterosexual,Non-Veteran,5,Likely,Middle,Distrustful,Fair,Fair,Christian,Possessor
+Republican,20,65000,Self-employed,Male,Married,Bachelor's Degree,Illinois,Other,Midwest,Conservative,Registered,Heterosexual,Non-Veteran,1,Unlikely,Middle,Distrustful,Excellent,Poor,Christian,Possessor
+Democrat,66,125000,Self-employed,Female,Divorced,Bachelor's Degree,Delaware,White,South,Progressive,Registered,Heterosexual,Non-Veteran,3,Unlikely,Middle,Distrustful,Excellent,Fair,Hindu,Non-Possessor
+Democrat,19,125000,Unemployed,Non-Binary,Widowed,Master's Degree,Tennessee,Asian,South,Libertarian,Registered,Heterosexual,Non-Veteran,5,Likely,Low,Trustful,Poor,Good,Christian,Non-Possessor
+Democrat,40,40000,Retired,Male,Divorced,Bachelor's Degree,South Carolina,Other,South,Centrist,Registered,Heterosexual,Non-Veteran,3,Unlikely,Low,Trustful,Poor,Excellent,Christian,Non-Possessor
+Republican,61,270000,Employed,Male,Divorced,Master's Degree,Utah,White,Unknown,Conservative,Registered,Heterosexual,Non-Veteran,0,Undecided,Middle,Trustful,Good,Excellent,Muslim,Non-Possessor
+Republican,78,170000,Unemployed,Male,Married,Master's Degree,Arkansas,Other,South,Conservative,Registered,Heterosexual,Veteran,5,Undecided,Low,Distrustful,Poor,Poor,Muslim,Possessor
+Republican,30,270000,Retired,Non-Binary,Divorced,Bachelor's Degree,New York,White,Northeast,Centrist,Registered,Heterosexual,Non-Veteran,4,Undecided,High,Neutral,Excellent,Excellent,Christian,Non-Possessor
+Democrat,32,35000,Student,Male,Widowed,Bachelor's Degree,Florida,Asian,South,Socialist,Registered,Heterosexual,Non-Veteran,0,Likely,Low,Distrustful,Excellent,Fair,Christian,Possessor
+Democrat,39,15000,Unemployed,Male,Single,Master's Degree,Utah,Asian,Unknown,Progressive,Registered,Heterosexual,Non-Veteran,1,Undecided,Middle,Neutral,Good,Poor,Christian,Non-Possessor
+Democrat,75,265000,Unemployed,Male,Single,High School,Connecticut,Hispanic,Northeast,Socialist,Registered,Heterosexual,Veteran,0,Unlikely,Low,Trustful,Poor,Fair,Christian,Non-Possessor
+Democrat,67,50000,Unemployed,Male,Widowed,High School,South Carolina,Hispanic,South,Liberal,Registered,Heterosexual,Non-Veteran,3,Undecided,Middle,Trustful,Fair,Poor,Muslim,Non-Possessor
+Democrat,48,265000,Student,Male,Widowed,Master's Degree,Wyoming,Black,Unknown,Progressive,Registered,Heterosexual,Non-Veteran,1,Likely,Middle,Neutral,Poor,Excellent,Christian,Non-Possessor
+Republican,50,315000,Employed,Female,Divorced,Doctoral Degree,Michigan,White,Midwest,Libertarian,Registered,Heterosexual,Non-Veteran,4,Likely,Middle,Distrustful,Poor,Fair,Christian,Non-Possessor
+Democrat,44,150000,Unemployed,Male,Married,Doctoral Degree,Colorado,Asian,Unknown,Socialist,Registered,Heterosexual,Non-Veteran,3,Likely,High,Neutral,Good,Excellent,Jewish,Non-Possessor
+Republican,69,305000,Employed,Female,Single,High School,Nebraska,Black,Unknown,Liberal,Registered,Heterosexual,Non-Veteran,0,Unlikely,Low,Neutral,Excellent,Excellent,Christian,Non-Possessor
+Democrat,30,20000,Self-employed,Male,Widowed,Doctoral Degree,Vermont,Asian,Northeast,Centrist,Registered,Heterosexual,Non-Veteran,1,Likely,High,Distrustful,Excellent,Fair,Christian,Non-Possessor
+Republican,59,300000,Employed,Male,Married,High School,North Carolina,Other,South,Liberal,Registered,Gay,Non-Veteran,4,Unlikely,Low,Trustful,Excellent,Good,Christian,Non-Possessor
+Democrat,22,55000,Student,Male,Single,Associate Degree,Louisiana,White,South,Socialist,Registered,Heterosexual,Non-Veteran,0,Undecided,Low,Trustful,Good,Fair,Christian,Possessor
+Democrat,76,170000,Self-employed,Female,Married,Associate Degree,Rhode Island,Hispanic,Northeast,Socialist,Registered,Heterosexual,Non-Veteran,0,Unlikely,High,Trustful,Poor,Fair,Christian,Possessor
+Republican,52,210000,Retired,Male,Single,Master's Degree,Idaho,Other,Unknown,Conservative,Registered,Heterosexual,Non-Veteran,5,Undecided,Low,Neutral,Excellent,Good,Muslim,Non-Possessor
+Democrat,36,80000,Student,Female,Married,High School,New York,Asian,Northeast,Liberal,Registered,Heterosexual,Non-Veteran,2,Likely,High,Trustful,Excellent,Fair,Christian,Possessor
+Democrat,53,50000,Self-employed,Female,Divorced,Associate Degree,Kentucky,Other,South,Socialist,Registered,Gay,Non-Veteran,4,Likely,Middle,Neutral,Excellent,Fair,Christian,Non-Possessor
+Democrat,39,160000,Retired,Female,Divorced,Doctoral Degree,Pennsylvania,Black,Northeast,Conservative,Registered,Heterosexual,Non-Veteran,0,Undecided,Middle,Neutral,Fair,Good,Christian,Non-Possessor
+Democrat,44,95000,Unemployed,Male,Divorced,Doctoral Degree,Oregon,Asian,West Coast,Progressive,Registered,Heterosexual,Non-Veteran,2,Likely,High,Trustful,Excellent,Poor,Muslim,Non-Possessor
+Democrat,31,170000,Student,Male,Married,Master's Degree,Montana,White,Unknown,Centrist,Registered,Heterosexual,Non-Veteran,2,Undecided,High,Neutral,Fair,Poor,Muslim,Non-Possessor
+Republican,61,20000,Self-employed,Non-Binary,Divorced,Associate Degree,South Carolina,Other,South,Liberal,Registered,Heterosexual,Non-Veteran,4,Unlikely,High,Trustful,Excellent,Excellent,Christian,Non-Possessor
+Republican,38,200000,Retired,Female,Widowed,High School,North Dakota,White,Unknown,Liberal,Registered,Heterosexual,Non-Veteran,0,Unlikely,Low,Trustful,Excellent,Excellent,Christian,Possessor
+Democrat,71,45000,Unemployed,Female,Married,Bachelor's Degree,Vermont,Hispanic,Northeast,Socialist,Registered,Heterosexual,Non-Veteran,5,Unlikely,Middle,Distrustful,Good,Good,Jewish,Non-Possessor
+Republican,42,60000,Student,Male,Widowed,Master's Degree,Arkansas,Asian,South,Conservative,Registered,Heterosexual,Non-Veteran,5,Undecided,Low,Distrustful,Fair,Good,Christian,Non-Possessor
+Democrat,76,65000,Retired,Female,Widowed,Bachelor's Degree,South Dakota,White,Unknown,Liberal,Registered,Heterosexual,Non-Veteran,3,Undecided,Low,Trustful,Excellent,Good,Muslim,Non-Possessor
+Republican,51,330000,Unemployed,Male,Widowed,Bachelor's Degree,Washington,White,West Coast,Centrist,Registered,Heterosexual,Non-Veteran,4,Likely,Middle,Trustful,Excellent,Poor,Christian,Non-Possessor
+Republican,64,260000,Student,Non-Binary,Single,High School,New Mexico,White,Unknown,Libertarian,Registered,Gay,Non-Veteran,2,Undecided,Low,Trustful,Excellent,Good,Christian,Non-Possessor
+Republican,46,325000,Retired,Female,Married,Master's Degree,Mississippi,White,South,Libertarian,Registered,Heterosexual,Non-Veteran,3,Unlikely,Low,Distrustful,Poor,Excellent,Hindu,Non-Possessor
+Republican,54,265000,Unemployed,Male,Single,Master's Degree,Oregon,White,West Coast,Liberal,Registered,Heterosexual,Non-Veteran,4,Likely,High,Neutral,Good,Fair,Christian,Non-Possessor
+Republican,44,255000,Retired,Male,Divorced,Doctoral Degree,Delaware,Hispanic,South,Centrist,Registered,Heterosexual,Non-Veteran,5,Likely,Middle,Trustful,Excellent,Good,Christian,Non-Possessor
+Republican,71,250000,Self-employed,Male,Single,High School,Kansas,Hispanic,Unknown,Centrist,Registered,Heterosexual,Non-Veteran,2,Undecided,High,Neutral,Poor,Poor,Hindu,Possessor
+Republican,68,195000,Unemployed,Male,Divorced,Master's Degree,Hawaii,White,Unknown,Centrist,Registered,Gay,Non-Veteran,3,Likely,Middle,Distrustful,Excellent,Excellent,Christian,Possessor
+Democrat,77,310000,Student,Female,Single,High School,Texas,Hispanic,South,Liberal,Registered,Heterosexual,Veteran,1,Undecided,Middle,Trustful,Excellent,Fair,Hindu,Possessor
+Democrat,48,130000,Student,Male,Divorced,Master's Degree,South Carolina,Other,South,Socialist,Registered,Heterosexual,Non-Veteran,5,Likely,High,Neutral,Good,Poor,Christian,Non-Possessor
+Democrat,40,235000,Self-employed,Male,Single,Master's Degree,New Jersey,Black,Northeast,Conservative,Registered,Heterosexual,Non-Veteran,4,Undecided,Low,Neutral,Poor,Poor,Christian,Possessor
+Republican,52,165000,Employed,Male,Married,Doctoral Degree,Washington,Asian,West Coast,Liberal,Registered,Heterosexual,Non-Veteran,4,Undecided,Low,Neutral,Fair,Good,Christian,Non-Possessor
+Democrat,28,235000,Student,Male,Divorced,Associate Degree,Texas,White,South,Conservative,Registered,Heterosexual,Non-Veteran,4,Undecided,Low,Trustful,Poor,Fair,Christian,Non-Possessor
+Democrat,71,225000,Student,Male,Married,Master's Degree,Michigan,Asian,Midwest,Centrist,Registered,Heterosexual,Non-Veteran,4,Likely,Low,Neutral,Poor,Excellent,Jewish,Possessor
+Democrat,69,70000,Self-employed,Non-Binary,Married,High School,New Hampshire,Hispanic,Northeast,Conservative,Registered,Heterosexual,Non-Veteran,3,Undecided,Low,Trustful,Good,Poor,Christian,Non-Possessor
+Democrat,72,155000,Unemployed,Male,Single,Master's Degree,Utah,Other,Unknown,Socialist,Registered,Heterosexual,Non-Veteran,5,Likely,Low,Distrustful,Good,Poor,Christian,Non-Possessor
+Democrat,37,135000,Self-employed,Male,Single,Bachelor's Degree,Georgia,Other,South,Conservative,Registered,Heterosexual,Non-Veteran,0,Likely,Middle,Distrustful,Poor,Poor,Hindu,Non-Possessor
+Republican,37,225000,Employed,Male,Divorced,Associate Degree,Colorado,White,Unknown,Conservative,Registered,Heterosexual,Non-Veteran,4,Likely,Middle,Trustful,Fair,Poor,Christian,Possessor
+Republican,72,235000,Student,Female,Widowed,High School,South Carolina,Other,South,Socialist,Registered,Heterosexual,Non-Veteran,5,Undecided,High,Neutral,Good,Poor,Christian,Non-Possessor
+Democrat,72,90000,Unemployed,Female,Single,Associate Degree,Florida,Asian,South,Libertarian,Registered,Heterosexual,Non-Veteran,1,Undecided,High,Trustful,Fair,Fair,Christian,Non-Possessor
+Democrat,22,325000,Unemployed,Male,Divorced,High School,Minnesota,Black,Midwest,Conservative,Registered,Gay,Non-Veteran,2,Unlikely,Low,Trustful,Good,Good,Christian,Non-Possessor
+Democrat,43,240000,Employed,Female,Widowed,Bachelor's Degree,South Dakota,White,Unknown,Progressive,Registered,Heterosexual,Non-Veteran,3,Undecided,High,Distrustful,Poor,Poor,Hindu,Non-Possessor
+Democrat,35,290000,Employed,Female,Divorced,Associate Degree,Nebraska,White,Unknown,Progressive,Registered,Heterosexual,Non-Veteran,4,Undecided,High,Neutral,Excellent,Fair,Hindu,Non-Possessor
+Republican,55,315000,Retired,Female,Widowed,Associate Degree,Michigan,White,Midwest,Socialist,Registered,Heterosexual,Non-Veteran,4,Likely,High,Trustful,Excellent,Excellent,Christian,Non-Possessor
+Democrat,68,165000,Unemployed,Female,Single,High School,North Carolina,Black,South,Conservative,Registered,Heterosexual,Non-Veteran,0,Undecided,Middle,Distrustful,Fair,Poor,Hindu,Non-Possessor
+Democrat,47,50000,Employed,Male,Widowed,Bachelor's Degree,Utah,White,Unknown,Liberal,Registered,Heterosexual,Non-Veteran,4,Unlikely,Low,Trustful,Fair,Good,Christian,Possessor
+Democrat,49,25000,Retired,Female,Single,Associate Degree,California,Other,West Coast,Socialist,Registered,Heterosexual,Veteran,3,Undecided,Low,Neutral,Fair,Excellent,Muslim,Possessor
+Democrat,30,160000,Self-employed,Non-Binary,Single,Bachelor's Degree,Kansas,Black,Unknown,Libertarian,Registered,Heterosexual,Non-Veteran,0,Unlikely,Low,Distrustful,Poor,Good,Christian,Non-Possessor
+Republican,39,320000,Unemployed,Male,Widowed,High School,Idaho,Other,Unknown,Liberal,Registered,Heterosexual,Non-Veteran,1,Undecided,High,Distrustful,Good,Good,Christian,Possessor
+Democrat,55,75000,Self-employed,Male,Single,Bachelor's Degree,Arkansas,White,South,Socialist,Registered,Heterosexual,Non-Veteran,1,Unlikely,Middle,Trustful,Excellent,Poor,Christian,Non-Possessor
+Republican,45,200000,Self-employed,Male,Widowed,Doctoral Degree,Indiana,Black,Midwest,Liberal,Registered,Heterosexual,Veteran,0,Likely,High,Trustful,Fair,Good,Christian,Possessor
+Republican,27,45000,Retired,Male,Divorced,Bachelor's Degree,South Dakota,Asian,Unknown,Progressive,Registered,Heterosexual,Non-Veteran,0,Unlikely,High,Neutral,Excellent,Good,Christian,Possessor
+Democrat,57,30000,Student,Female,Married,Bachelor's Degree,Maine,Other,Northeast,Progressive,Registered,Heterosexual,Non-Veteran,3,Likely,High,Trustful,Poor,Fair,Muslim,Non-Possessor
+Republican,27,30000,Unemployed,Male,Married,Master's Degree,New York,Hispanic,Northeast,Centrist,Registered,Heterosexual,Non-Veteran,0,Unlikely,High,Distrustful,Excellent,Good,Christian,Non-Possessor
+Republican,18,250000,Retired,Male,Divorced,Master's Degree,Maine,Other,Northeast,Conservative,Registered,Heterosexual,Non-Veteran,4,Unlikely,Low,Distrustful,Fair,Good,Christian,Non-Possessor
+Republican,23,160000,Retired,Female,Divorced,Master's Degree,Illinois,Black,Midwest,Centrist,Registered,Heterosexual,Non-Veteran,4,Likely,Middle,Neutral,Good,Excellent,Christian,Possessor
+Democrat,26,255000,Employed,Male,Single,Bachelor's Degree,Maine,Other,Northeast,Progressive,Registered,Heterosexual,Non-Veteran,3,Undecided,Middle,Distrustful,Excellent,Excellent,Christian,Possessor
+Republican,33,230000,Retired,Male,Divorced,Master's Degree,Kentucky,White,South,Conservative,Registered,Heterosexual,Non-Veteran,4,Likely,Middle,Distrustful,Excellent,Good,Christian,Non-Possessor
+Republican,57,160000,Employed,Female,Divorced,High School,Delaware,Other,South,Conservative,Registered,Heterosexual,Non-Veteran,2,Unlikely,High,Neutral,Poor,Fair,Christian,Non-Possessor
+Democrat,48,75000,Student,Male,Widowed,Bachelor's Degree,Oklahoma,Hispanic,South,Centrist,Registered,Gay,Non-Veteran,1,Likely,High,Neutral,Poor,Fair,Christian,Non-Possessor
+Democrat,37,55000,Student,Female,Single,Associate Degree,Arkansas,Asian,South,Libertarian,Registered,Heterosexual,Veteran,3,Undecided,High,Trustful,Poor,Poor,Christian,Possessor
+Republican,77,150000,Retired,Non-Binary,Married,Doctoral Degree,New Hampshire,Asian,Northeast,Libertarian,Registered,Heterosexual,Non-Veteran,4,Undecided,High,Neutral,Good,Fair,Muslim,Non-Possessor
+Democrat,29,15000,Unemployed,Non-Binary,Divorced,Master's Degree,Montana,Other,Unknown,Conservative,Registered,Heterosexual,Non-Veteran,4,Unlikely,Middle,Distrustful,Poor,Good,Christian,Non-Possessor
+Democrat,38,215000,Student,Female,Single,Doctoral Degree,Vermont,Hispanic,Northeast,Progressive,Registered,Heterosexual,Non-Veteran,5,Undecided,High,Distrustful,Good,Poor,Christian,Possessor
+Republican,78,15000,Self-employed,Non-Binary,Divorced,Master's Degree,North Carolina,White,South,Progressive,Registered,Gay,Non-Veteran,0,Unlikely,High,Neutral,Excellent,Good,Christian,Non-Possessor
+Democrat,32,30000,Unemployed,Female,Divorced,Bachelor's Degree,Montana,Black,Unknown,Socialist,Registered,Heterosexual,Non-Veteran,3,Likely,Low,Trustful,Poor,Poor,Hindu,Non-Possessor
+Democrat,32,160000,Student,Female,Divorced,Associate Degree,California,Asian,West Coast,Libertarian,Registered,Heterosexual,Veteran,3,Undecided,Low,Neutral,Poor,Excellent,Christian,Non-Possessor
+Democrat,31,115000,Self-employed,Female,Single,High School,New Hampshire,Hispanic,Northeast,Liberal,Registered,Heterosexual,Non-Veteran,5,Undecided,Middle,Distrustful,Fair,Good,Muslim,Non-Possessor
+Republican,68,155000,Employed,Male,Divorced,Associate Degree,Vermont,White,Northeast,Centrist,Registered,Gay,Non-Veteran,5,Undecided,High,Distrustful,Poor,Poor,Christian,Non-Possessor
+Democrat,72,50000,Employed,Female,Single,Bachelor's Degree,Oregon,Hispanic,West Coast,Libertarian,Registered,Gay,Non-Veteran,5,Undecided,Middle,Distrustful,Fair,Good,Jewish,Non-Possessor
+Democrat,64,125000,Unemployed,Male,Divorced,Bachelor's Degree,Alaska,Black,Unknown,Socialist,Registered,Heterosexual,Non-Veteran,1,Undecided,Middle,Trustful,Good,Excellent,Jewish,Possessor
+Republican,45,60000,Student,Female,Married,High School,North Dakota,Hispanic,Unknown,Conservative,Registered,Heterosexual,Non-Veteran,4,Undecided,High,Trustful,Excellent,Poor,Christian,Non-Possessor
+Republican,55,250000,Retired,Male,Married,Associate Degree,Nevada,Other,Unknown,Conservative,Registered,Heterosexual,Non-Veteran,1,Unlikely,Low,Neutral,Fair,Poor,Christian,Non-Possessor
+Republican,61,210000,Student,Male,Married,Associate Degree,Alaska,Black,Unknown,Socialist,Registered,Heterosexual,Non-Veteran,0,Likely,Middle,Trustful,Excellent,Fair,Christian,Non-Possessor
+Republican,71,80000,Unemployed,Non-Binary,Divorced,Bachelor's Degree,Utah,Black,Unknown,Progressive,Registered,Heterosexual,Non-Veteran,5,Likely,High,Distrustful,Excellent,Excellent,Christian,Non-Possessor
+Democrat,28,185000,Self-employed,Female,Married,Associate Degree,Iowa,Black,Midwest,Socialist,Registered,Heterosexual,Non-Veteran,5,Likely,Middle,Trustful,Excellent,Excellent,Christian,Non-Possessor
+Democrat,75,195000,Retired,Female,Single,Bachelor's Degree,New York,White,Northeast,Socialist,Registered,Heterosexual,Non-Veteran,0,Likely,Low,Trustful,Good,Good,Christian,Non-Possessor
+Democrat,37,220000,Student,Female,Married,Master's Degree,Colorado,Black,Unknown,Conservative,Registered,Heterosexual,Non-Veteran,1,Undecided,High,Distrustful,Good,Poor,Christian,Possessor
+Democrat,32,115000,Retired,Female,Widowed,Doctoral Degree,Michigan,Black,Midwest,Progressive,Registered,Heterosexual,Non-Veteran,4,Undecided,High,Trustful,Poor,Excellent,Christian,Non-Possessor
+Republican,57,270000,Student,Male,Divorced,Associate Degree,New Mexico,Black,Unknown,Liberal,Registered,Heterosexual,Non-Veteran,4,Likely,High,Neutral,Poor,Excellent,Christian,Non-Possessor
+Republican,53,225000,Retired,Male,Single,Doctoral Degree,Iowa,Black,Midwest,Libertarian,Registered,Heterosexual,Non-Veteran,4,Likely,High,Trustful,Excellent,Fair,Jewish,Possessor
+Democrat,24,115000,Retired,Non-Binary,Divorced,Master's Degree,Montana,Other,Unknown,Socialist,Registered,Heterosexual,Non-Veteran,1,Undecided,Middle,Distrustful,Excellent,Good,Christian,Possessor
+Republican,58,315000,Employed,Female,Widowed,Doctoral Degree,Nebraska,Hispanic,Unknown,Conservative,Registered,Heterosexual,Veteran,5,Undecided,Low,Trustful,Excellent,Fair,Christian,Non-Possessor
+Democrat,57,110000,Self-employed,Non-Binary,Single,Doctoral Degree,Nevada,White,Unknown,Progressive,Registered,Heterosexual,Non-Veteran,1,Likely,Middle,Trustful,Fair,Fair,Christian,Possessor
+Democrat,39,100000,Unemployed,Female,Widowed,High School,Georgia,White,South,Centrist,Registered,Heterosexual,Non-Veteran,0,Unlikely,Middle,Neutral,Fair,Poor,Hindu,Non-Possessor
+Democrat,54,130000,Retired,Male,Single,Associate Degree,North Dakota,White,Unknown,Liberal,Registered,Heterosexual,Non-Veteran,3,Undecided,Low,Trustful,Excellent,Fair,Christian,Non-Possessor
+Republican,71,320000,Retired,Male,Divorced,Master's Degree,Montana,Other,Unknown,Centrist,Registered,Heterosexual,Veteran,1,Unlikely,High,Trustful,Excellent,Excellent,Jewish,Non-Possessor
+Democrat,28,315000,Self-employed,Female,Single,Master's Degree,South Dakota,Asian,Unknown,Conservative,Registered,Heterosexual,Non-Veteran,3,Likely,High,Neutral,Poor,Fair,Hindu,Non-Possessor
+Republican,75,285000,Self-employed,Female,Widowed,Master's Degree,Arizona,White,Unknown,Centrist,Registered,Heterosexual,Non-Veteran,4,Undecided,Low,Neutral,Poor,Excellent,Hindu,Non-Possessor
+Democrat,59,80000,Student,Male,Divorced,Bachelor's Degree,New York,Hispanic,Northeast,Conservative,Registered,Heterosexual,Veteran,0,Undecided,Middle,Trustful,Poor,Fair,Christian,Non-Possessor
+Democrat,22,125000,Retired,Female,Divorced,Doctoral Degree,Oklahoma,Asian,South,Libertarian,Registered,Heterosexual,Non-Veteran,3,Likely,Low,Distrustful,Good,Fair,Christian,Possessor
+Democrat,79,135000,Student,Male,Divorced,Doctoral Degree,Idaho,Asian,Unknown,Progressive,Registered,Heterosexual,Non-Veteran,0,Unlikely,Low,Distrustful,Excellent,Fair,Christian,Non-Possessor
+Democrat,52,55000,Unemployed,Male,Single,Doctoral Degree,Alaska,Asian,Unknown,Libertarian,Registered,Heterosexual,Non-Veteran,2,Undecided,Middle,Trustful,Excellent,Excellent,Christian,Non-Possessor
+Democrat,40,40000,Unemployed,Male,Single,Bachelor's Degree,Pennsylvania,Other,Northeast,Conservative,Registered,Heterosexual,Non-Veteran,4,Unlikely,Middle,Trustful,Excellent,Excellent,Jewish,Possessor
+Republican,48,285000,Retired,Female,Divorced,Bachelor's Degree,Colorado,White,Unknown,Progressive,Registered,Heterosexual,Non-Veteran,3,Undecided,High,Distrustful,Good,Poor,Christian,Possessor
+Republican,20,245000,Unemployed,Male,Widowed,High School,North Dakota,Black,Unknown,Progressive,Registered,Heterosexual,Non-Veteran,0,Undecided,Middle,Distrustful,Good,Poor,Christian,Possessor
+Democrat,50,170000,Self-employed,Male,Divorced,Master's Degree,Georgia,Hispanic,South,Centrist,Registered,Heterosexual,Non-Veteran,1,Likely,Middle,Trustful,Excellent,Good,Jewish,Possessor
+Republican,26,185000,Retired,Male,Married,High School,Minnesota,Hispanic,Midwest,Liberal,Registered,Gay,Veteran,5,Undecided,Middle,Neutral,Poor,Fair,Christian,Non-Possessor
+Democrat,28,150000,Employed,Male,Divorced,High School,Missouri,Other,Midwest,Conservative,Registered,Heterosexual,Non-Veteran,1,Undecided,Low,Trustful,Poor,Excellent,Christian,Non-Possessor
+Republican,73,260000,Unemployed,Male,Married,Doctoral Degree,Florida,Hispanic,South,Libertarian,Registered,Heterosexual,Non-Veteran,3,Unlikely,High,Neutral,Poor,Good,Christian,Non-Possessor
+Democrat,19,120000,Student,Female,Widowed,Associate Degree,Maine,White,Northeast,Liberal,Registered,Heterosexual,Non-Veteran,3,Likely,Low,Trustful,Fair,Fair,Christian,Non-Possessor
+Republican,60,325000,Employed,Male,Single,Doctoral Degree,South Dakota,White,Unknown,Progressive,Registered,Heterosexual,Non-Veteran,5,Likely,Middle,Distrustful,Excellent,Good,Christian,Non-Possessor
+Democrat,61,345000,Retired,Male,Single,Master's Degree,Wisconsin,Black,Midwest,Liberal,Registered,Heterosexual,Non-Veteran,3,Undecided,Low,Trustful,Excellent,Fair,Muslim,Non-Possessor
+Republican,77,145000,Retired,Male,Married,Doctoral Degree,Indiana,White,Midwest,Conservative,Registered,Heterosexual,Non-Veteran,5,Undecided,Low,Trustful,Good,Excellent,Christian,Non-Possessor
+Republican,57,235000,Retired,Male,Married,Associate Degree,Wyoming,White,Unknown,Progressive,Registered,Heterosexual,Non-Veteran,0,Undecided,Middle,Neutral,Poor,Poor,Christian,Possessor
+Democrat,60,100000,Self-employed,Male,Single,Associate Degree,New Hampshire,Black,Northeast,Conservative,Registered,Heterosexual,Non-Veteran,4,Likely,High,Neutral,Poor,Fair,Hindu,Non-Possessor
+Republican,27,275000,Employed,Female,Widowed,Doctoral Degree,Colorado,Black,Unknown,Socialist,Registered,Heterosexual,Non-Veteran,4,Unlikely,High,Neutral,Poor,Excellent,Christian,Non-Possessor
+Democrat,49,190000,Unemployed,Female,Widowed,Doctoral Degree,South Carolina,White,South,Libertarian,Registered,Heterosexual,Non-Veteran,1,Undecided,Middle,Neutral,Good,Good,Jewish,Non-Possessor
+Republican,20,260000,Self-employed,Female,Widowed,High School,Vermont,White,Northeast,Libertarian,Registered,Heterosexual,Non-Veteran,4,Unlikely,Middle,Neutral,Good,Excellent,Muslim,Non-Possessor
+Republican,54,270000,Retired,Male,Single,Associate Degree,Colorado,White,Unknown,Libertarian,Registered,Heterosexual,Non-Veteran,4,Likely,Middle,Trustful,Poor,Poor,Christian,Non-Possessor
+Democrat,54,90000,Employed,Male,Widowed,Associate Degree,Hawaii,Other,Unknown,Conservative,Registered,Heterosexual,Non-Veteran,1,Undecided,Middle,Distrustful,Fair,Poor,Christian,Non-Possessor
+Republican,72,325000,Unemployed,Female,Married,Doctoral Degree,Ohio,Other,Midwest,Conservative,Registered,Heterosexual,Non-Veteran,2,Unlikely,High,Distrustful,Good,Good,Christian,Non-Possessor
+Democrat,75,280000,Unemployed,Female,Divorced,Master's Degree,Nevada,Asian,Unknown,Liberal,Registered,Heterosexual,Non-Veteran,1,Undecided,Low,Neutral,Good,Fair,Muslim,Non-Possessor
+Democrat,23,315000,Unemployed,Male,Widowed,High School,Tennessee,Black,South,Liberal,Registered,Heterosexual,Non-Veteran,3,Likely,Low,Neutral,Excellent,Good,Muslim,Possessor
+Republican,77,135000,Student,Male,Widowed,Doctoral Degree,Illinois,Black,Midwest,Centrist,Registered,Heterosexual,Non-Veteran,5,Likely,High,Trustful,Excellent,Good,Muslim,Non-Possessor
+Democrat,78,60000,Employed,Non-Binary,Single,Associate Degree,South Dakota,Hispanic,Unknown,Centrist,Registered,Heterosexual,Non-Veteran,0,Undecided,Middle,Distrustful,Poor,Poor,Christian,Non-Possessor
+Republican,18,155000,Student,Male,Divorced,Doctoral Degree,Oklahoma,Black,South,Libertarian,Registered,Heterosexual,Non-Veteran,4,Undecided,High,Neutral,Good,Good,Hindu,Non-Possessor
+Republican,53,145000,Self-employed,Male,Married,Associate Degree,Louisiana,Hispanic,South,Progressive,Registered,Heterosexual,Non-Veteran,1,Undecided,High,Trustful,Fair,Good,Christian,Non-Possessor
+Democrat,44,295000,Employed,Female,Married,Bachelor's Degree,California,Asian,West Coast,Socialist,Registered,Heterosexual,Non-Veteran,1,Unlikely,Middle,Trustful,Fair,Fair,Hindu,Non-Possessor
+Republican,59,280000,Employed,Male,Divorced,Doctoral Degree,Alabama,Black,South,Conservative,Registered,Heterosexual,Non-Veteran,5,Undecided,Middle,Neutral,Good,Poor,Christian,Non-Possessor
+Democrat,37,195000,Student,Male,Single,Master's Degree,Hawaii,Hispanic,Unknown,Progressive,Registered,Heterosexual,Non-Veteran,4,Likely,Low,Distrustful,Fair,Good,Christian,Non-Possessor
+Republican,44,265000,Employed,Male,Married,Doctoral Degree,West Virginia,Hispanic,South,Centrist,Registered,Heterosexual,Non-Veteran,4,Undecided,High,Distrustful,Good,Fair,Jewish,Non-Possessor
+Republican,51,240000,Self-employed,Female,Divorced,Master's Degree,Kansas,White,Unknown,Conservative,Registered,Heterosexual,Non-Veteran,4,Likely,Middle,Neutral,Fair,Poor,Christian,Possessor
+Republican,28,295000,Retired,Male,Single,Bachelor's Degree,New Hampshire,White,Northeast,Liberal,Registered,Heterosexual,Veteran,0,Likely,Low,Trustful,Fair,Excellent,Christian,Possessor
+Republican,32,310000,Self-employed,Female,Widowed,High School,New Mexico,Black,Unknown,Centrist,Registered,Heterosexual,Veteran,0,Likely,Middle,Neutral,Good,Good,Muslim,Non-Possessor
+Democrat,61,20000,Unemployed,Female,Widowed,Bachelor's Degree,Texas,Asian,South,Centrist,Registered,Heterosexual,Non-Veteran,0,Likely,High,Trustful,Poor,Fair,Hindu,Possessor
+Republican,47,120000,Student,Female,Widowed,High School,North Carolina,Other,South,Centrist,Registered,Heterosexual,Veteran,3,Likely,High,Distrustful,Poor,Excellent,Christian,Possessor
+Democrat,51,60000,Self-employed,Non-Binary,Divorced,Doctoral Degree,Maine,Hispanic,Northeast,Centrist,Registered,Heterosexual,Non-Veteran,2,Unlikely,High,Trustful,Poor,Fair,Christian,Non-Possessor
+Democrat,54,55000,Student,Female,Single,Master's Degree,Louisiana,Other,South,Progressive,Registered,Heterosexual,Non-Veteran,2,Unlikely,High,Distrustful,Good,Poor,Jewish,Non-Possessor
+Democrat,22,320000,Retired,Male,Divorced,Master's Degree,New Mexico,White,Unknown,Progressive,Registered,Heterosexual,Non-Veteran,2,Undecided,Low,Trustful,Poor,Poor,Christian,Non-Possessor
+Democrat,45,45000,Student,Female,Divorced,Master's Degree,Iowa,Asian,Midwest,Socialist,Registered,Heterosexual,Non-Veteran,1,Undecided,Middle,Neutral,Excellent,Poor,Jewish,Non-Possessor
+Republican,34,345000,Retired,Female,Married,Associate Degree,New York,Black,Northeast,Progressive,Registered,Heterosexual,Non-Veteran,4,Unlikely,Low,Neutral,Good,Excellent,Christian,Non-Possessor
+Democrat,34,290000,Student,Male,Single,High School,South Carolina,Other,South,Liberal,Registered,Heterosexual,Non-Veteran,1,Likely,Low,Distrustful,Good,Fair,Christian,Non-Possessor
+Democrat,33,35000,Self-employed,Male,Married,Doctoral Degree,Minnesota,Asian,Midwest,Centrist,Registered,Heterosexual,Non-Veteran,2,Likely,Low,Trustful,Fair,Good,Christian,Non-Possessor
+Republican,71,335000,Self-employed,Female,Widowed,High School,Colorado,Other,Unknown,Libertarian,Registered,Heterosexual,Non-Veteran,1,Unlikely,Low,Neutral,Poor,Poor,Christian,Non-Possessor
+Democrat,39,45000,Unemployed,Female,Divorced,Doctoral Degree,Alaska,Hispanic,Unknown,Progressive,Registered,Gay,Non-Veteran,0,Likely,High,Distrustful,Fair,Poor,Christian,Non-Possessor
+Republican,34,210000,Retired,Female,Married,Bachelor's Degree,Colorado,White,Unknown,Progressive,Registered,Heterosexual,Non-Veteran,2,Likely,High,Neutral,Good,Fair,Christian,Non-Possessor
+Democrat,29,275000,Retired,Male,Divorced,Master's Degree,Washington,Asian,West Coast,Libertarian,Registered,Heterosexual,Non-Veteran,5,Undecided,Low,Trustful,Fair,Good,Muslim,Possessor
+Democrat,20,80000,Student,Female,Widowed,High School,New Mexico,Black,Unknown,Liberal,Registered,Heterosexual,Non-Veteran,2,Undecided,Low,Distrustful,Poor,Poor,Jewish,Possessor
+Democrat,74,45000,Employed,Male,Widowed,Bachelor's Degree,Tennessee,Asian,South,Socialist,Registered,Heterosexual,Non-Veteran,5,Undecided,Low,Trustful,Fair,Poor,Christian,Non-Possessor
+Republican,22,80000,Self-employed,Male,Widowed,Master's Degree,Arkansas,White,South,Centrist,Registered,Heterosexual,Veteran,4,Likely,Middle,Distrustful,Good,Poor,Christian,Non-Possessor
+Democrat,36,50000,Student,Female,Married,Bachelor's Degree,Delaware,White,South,Conservative,Registered,Heterosexual,Non-Veteran,1,Unlikely,High,Neutral,Good,Poor,Hindu,Non-Possessor
+Democrat,27,215000,Self-employed,Non-Binary,Single,Associate Degree,Colorado,Black,Unknown,Liberal,Registered,Heterosexual,Non-Veteran,1,Unlikely,High,Trustful,Good,Poor,Christian,Non-Possessor
+Democrat,29,25000,Student,Male,Widowed,Bachelor's Degree,Colorado,White,Unknown,Liberal,Registered,Heterosexual,Non-Veteran,1,Unlikely,Low,Distrustful,Excellent,Good,Muslim,Possessor
+Democrat,43,60000,Employed,Female,Married,Associate Degree,Massachusetts,White,Northeast,Libertarian,Registered,Heterosexual,Non-Veteran,4,Undecided,Low,Trustful,Poor,Good,Christian,Possessor
+Republican,64,280000,Retired,Male,Widowed,Master's Degree,Nebraska,Other,Unknown,Centrist,Registered,Heterosexual,Non-Veteran,0,Undecided,High,Neutral,Poor,Fair,Christian,Non-Possessor
+Republican,60,80000,Unemployed,Male,Married,Bachelor's Degree,Kentucky,Other,South,Socialist,Registered,Heterosexual,Non-Veteran,5,Unlikely,Middle,Distrustful,Fair,Good,Christian,Non-Possessor
+Democrat,19,105000,Retired,Male,Widowed,Doctoral Degree,New York,Black,Northeast,Libertarian,Registered,Gay,Non-Veteran,5,Likely,Low,Trustful,Excellent,Poor,Christian,Non-Possessor
+Democrat,22,245000,Student,Female,Single,Associate Degree,Louisiana,Black,South,Progressive,Registered,Heterosexual,Non-Veteran,0,Undecided,Middle,Trustful,Good,Excellent,Christian,Non-Possessor
+Democrat,31,70000,Unemployed,Male,Married,Master's Degree,Connecticut,Hispanic,Northeast,Progressive,Registered,Heterosexual,Non-Veteran,0,Unlikely,Low,Trustful,Excellent,Poor,Christian,Non-Possessor
+Republican,50,220000,Retired,Male,Divorced,High School,Texas,Black,South,Socialist,Registered,Heterosexual,Non-Veteran,4,Likely,High,Neutral,Good,Fair,Hindu,Non-Possessor
+Republican,61,185000,Employed,Female,Married,Doctoral Degree,South Carolina,Other,South,Libertarian,Registered,Heterosexual,Non-Veteran,1,Unlikely,Middle,Distrustful,Poor,Good,Christian,Possessor
+Republican,36,125000,Student,Male,Married,Bachelor's Degree,Tennessee,Hispanic,South,Libertarian,Registered,Heterosexual,Non-Veteran,2,Likely,Middle,Distrustful,Good,Excellent,Christian,Possessor
+Democrat,61,145000,Unemployed,Male,Widowed,Associate Degree,Wisconsin,Asian,Midwest,Centrist,Registered,Heterosexual,Non-Veteran,1,Unlikely,High,Trustful,Good,Poor,Christian,Non-Possessor
+Democrat,19,265000,Unemployed,Male,Widowed,Doctoral Degree,North Carolina,Black,South,Socialist,Registered,Heterosexual,Non-Veteran,4,Likely,Middle,Distrustful,Fair,Excellent,Muslim,Non-Possessor
+Democrat,65,240000,Student,Male,Divorced,Doctoral Degree,New Jersey,Asian,Northeast,Conservative,Registered,Heterosexual,Non-Veteran,2,Likely,Middle,Neutral,Good,Good,Muslim,Non-Possessor
+Republican,52,135000,Self-employed,Female,Single,Bachelor's Degree,Maine,White,Northeast,Conservative,Registered,Heterosexual,Non-Veteran,1,Unlikely,Middle,Distrustful,Excellent,Good,Christian,Non-Possessor
+Democrat,49,105000,Retired,Male,Divorced,Bachelor's Degree,South Dakota,White,Unknown,Progressive,Registered,Heterosexual,Non-Veteran,1,Unlikely,Middle,Neutral,Good,Fair,Jewish,Non-Possessor
+Democrat,48,330000,Retired,Female,Single,Master's Degree,Missouri,Other,Midwest,Socialist,Registered,Heterosexual,Non-Veteran,5,Undecided,Middle,Distrustful,Good,Poor,Christian,Non-Possessor
+Republican,55,345000,Self-employed,Female,Divorced,High School,Mississippi,Other,South,Libertarian,Registered,Heterosexual,Non-Veteran,4,Undecided,Low,Trustful,Fair,Good,Christian,Non-Possessor
+Democrat,36,180000,Self-employed,Male,Single,High School,Arizona,Hispanic,Unknown,Conservative,Registered,Heterosexual,Non-Veteran,4,Undecided,Low,Distrustful,Poor,Poor,Muslim,Non-Possessor
+Democrat,45,325000,Retired,Non-Binary,Divorced,High School,Vermont,Other,Northeast,Liberal,Registered,Heterosexual,Non-Veteran,0,Unlikely,Middle,Neutral,Good,Poor,Hindu,Non-Possessor
+Democrat,66,260000,Self-employed,Male,Married,High School,Arkansas,Hispanic,South,Progressive,Registered,Gay,Non-Veteran,2,Likely,Low,Neutral,Poor,Fair,Muslim,Possessor
+Republican,47,245000,Employed,Male,Divorced,Doctoral Degree,Arkansas,White,South,Libertarian,Registered,Heterosexual,Non-Veteran,4,Likely,Middle,Neutral,Poor,Poor,Christian,Non-Possessor
+Democrat,29,60000,Self-employed,Female,Widowed,Doctoral Degree,New York,Other,Northeast,Conservative,Registered,Heterosexual,Non-Veteran,5,Likely,Low,Trustful,Poor,Fair,Christian,Non-Possessor
+Republican,46,285000,Student,Non-Binary,Married,High School,Indiana,White,Midwest,Conservative,Registered,Heterosexual,Non-Veteran,3,Likely,High,Distrustful,Poor,Fair,Christian,Non-Possessor
+Democrat,55,120000,Self-employed,Female,Single,Bachelor's Degree,Wisconsin,Asian,Midwest,Libertarian,Registered,Heterosexual,Veteran,1,Undecided,Low,Trustful,Excellent,Good,Jewish,Non-Possessor
+Democrat,32,205000,Student,Female,Widowed,Associate Degree,Pennsylvania,Black,Northeast,Socialist,Registered,Heterosexual,Non-Veteran,5,Unlikely,Low,Trustful,Fair,Good,Christian,Non-Possessor
+Democrat,46,135000,Self-employed,Female,Widowed,Master's Degree,Rhode Island,Other,Northeast,Socialist,Registered,Gay,Non-Veteran,5,Undecided,Middle,Neutral,Good,Excellent,Christian,Non-Possessor
+Democrat,58,95000,Employed,Female,Married,Master's Degree,Arizona,Hispanic,Unknown,Liberal,Registered,Gay,Non-Veteran,5,Likely,Low,Neutral,Fair,Fair,Christian,Non-Possessor
+Republican,39,265000,Retired,Male,Widowed,Associate Degree,Mississippi,Black,South,Centrist,Registered,Heterosexual,Non-Veteran,5,Undecided,High,Trustful,Poor,Good,Christian,Possessor
+Republican,64,125000,Self-employed,Female,Single,Associate Degree,Texas,Hispanic,South,Liberal,Registered,Heterosexual,Non-Veteran,5,Likely,High,Neutral,Good,Poor,Christian,Non-Possessor
+Republican,55,265000,Student,Male,Married,High School,Colorado,Asian,Unknown,Libertarian,Registered,Heterosexual,Veteran,1,Likely,High,Trustful,Poor,Excellent,Jewish,Non-Possessor
+Democrat,27,70000,Employed,Female,Married,High School,Missouri,White,Midwest,Socialist,Registered,Heterosexual,Non-Veteran,4,Unlikely,Middle,Distrustful,Poor,Good,Hindu,Non-Possessor
+Republican,59,35000,Self-employed,Male,Widowed,Master's Degree,Ohio,Asian,Midwest,Libertarian,Registered,Heterosexual,Non-Veteran,4,Likely,Low,Distrustful,Poor,Poor,Christian,Non-Possessor
+Democrat,47,165000,Retired,Male,Divorced,Bachelor's Degree,Pennsylvania,Asian,Northeast,Progressive,Registered,Heterosexual,Non-Veteran,3,Unlikely,Middle,Neutral,Excellent,Fair,Muslim,Non-Possessor
+Republican,39,290000,Unemployed,Male,Widowed,High School,Kentucky,Black,South,Centrist,Registered,Heterosexual,Non-Veteran,4,Undecided,Middle,Trustful,Poor,Good,Christian,Non-Possessor
+Democrat,23,315000,Employed,Female,Single,High School,Maryland,Hispanic,South,Conservative,Registered,Heterosexual,Non-Veteran,2,Undecided,Middle,Neutral,Excellent,Poor,Jewish,Non-Possessor
+Democrat,61,250000,Employed,Non-Binary,Divorced,Doctoral Degree,Missouri,Hispanic,Midwest,Liberal,Registered,Heterosexual,Non-Veteran,3,Likely,High,Trustful,Poor,Excellent,Muslim,Non-Possessor
+Republican,66,145000,Retired,Male,Widowed,Master's Degree,Montana,Other,Unknown,Socialist,Registered,Heterosexual,Non-Veteran,4,Unlikely,High,Neutral,Fair,Good,Christian,Non-Possessor
+Democrat,56,150000,Unemployed,Non-Binary,Widowed,Master's Degree,Utah,Black,Unknown,Centrist,Registered,Heterosexual,Non-Veteran,5,Unlikely,Middle,Neutral,Poor,Excellent,Christian,Possessor
+Democrat,18,150000,Retired,Female,Divorced,High School,South Carolina,White,South,Liberal,Registered,Heterosexual,Non-Veteran,0,Undecided,High,Trustful,Fair,Poor,Muslim,Non-Possessor
+Democrat,56,250000,Student,Male,Widowed,Associate Degree,Kansas,Hispanic,Unknown,Centrist,Registered,Gay,Non-Veteran,5,Likely,Low,Distrustful,Fair,Good,Muslim,Possessor
+Democrat,36,135000,Student,Male,Widowed,Associate Degree,Massachusetts,Hispanic,Northeast,Socialist,Registered,Heterosexual,Non-Veteran,2,Likely,Low,Trustful,Poor,Fair,Christian,Non-Possessor
+Democrat,34,170000,Student,Male,Widowed,Associate Degree,Kentucky,Other,South,Socialist,Registered,Heterosexual,Non-Veteran,5,Likely,Low,Neutral,Fair,Excellent,Christian,Non-Possessor
+Republican,76,130000,Unemployed,Male,Widowed,Master's Degree,Tennessee,Hispanic,South,Conservative,Registered,Heterosexual,Non-Veteran,1,Likely,Low,Neutral,Fair,Excellent,Christian,Non-Possessor
+Republican,68,340000,Self-employed,Female,Single,Doctoral Degree,Nevada,Black,Unknown,Socialist,Registered,Heterosexual,Non-Veteran,4,Likely,Middle,Distrustful,Fair,Good,Christian,Possessor
+Democrat,18,20000,Self-employed,Female,Married,Bachelor's Degree,North Dakota,Hispanic,Unknown,Socialist,Registered,Heterosexual,Non-Veteran,5,Likely,Middle,Trustful,Poor,Excellent,Muslim,Non-Possessor
+Democrat,49,225000,Student,Male,Single,Doctoral Degree,Mississippi,White,South,Libertarian,Registered,Gay,Non-Veteran,0,Unlikely,Middle,Neutral,Fair,Fair,Christian,Possessor
+Republican,20,270000,Retired,Female,Married,Master's Degree,North Dakota,Asian,Unknown,Libertarian,Registered,Heterosexual,Non-Veteran,4,Undecided,Middle,Trustful,Poor,Good,Christian,Non-Possessor
+Democrat,31,160000,Retired,Male,Widowed,Associate Degree,Hawaii,Other,Unknown,Conservative,Registered,Heterosexual,Non-Veteran,4,Likely,Low,Neutral,Fair,Poor,Jewish,Non-Possessor
+Democrat,48,110000,Retired,Male,Divorced,High School,Nevada,Black,Unknown,Libertarian,Registered,Gay,Non-Veteran,1,Undecided,Middle,Trustful,Good,Poor,Muslim,Non-Possessor
+Democrat,36,170000,Unemployed,Male,Married,Doctoral Degree,Michigan,White,Midwest,Socialist,Registered,Heterosexual,Non-Veteran,3,Likely,Low,Trustful,Fair,Good,Christian,Possessor
+Democrat,59,310000,Unemployed,Female,Widowed,Associate Degree,New Hampshire,White,Northeast,Centrist,Registered,Heterosexual,Non-Veteran,5,Undecided,Low,Neutral,Excellent,Good,Jewish,Non-Possessor
+Republican,66,140000,Retired,Male,Single,Doctoral Degree,Arkansas,Other,South,Conservative,Registered,Gay,Veteran,5,Likely,Middle,Distrustful,Fair,Poor,Christian,Possessor
+Democrat,70,145000,Unemployed,Female,Single,Master's Degree,Vermont,Asian,Northeast,Liberal,Registered,Heterosexual,Non-Veteran,3,Unlikely,Middle,Distrustful,Poor,Poor,Hindu,Non-Possessor
+Democrat,51,100000,Unemployed,Male,Single,Doctoral Degree,Indiana,Other,Midwest,Socialist,Registered,Heterosexual,Non-Veteran,0,Likely,Middle,Trustful,Good,Poor,Christian,Non-Possessor
+Democrat,79,230000,Retired,Female,Widowed,Associate Degree,Ohio,Black,Midwest,Socialist,Registered,Heterosexual,Non-Veteran,3,Undecided,High,Trustful,Good,Fair,Christian,Possessor
+Republican,47,120000,Employed,Male,Single,High School,Illinois,Black,Midwest,Centrist,Registered,Gay,Non-Veteran,2,Undecided,High,Neutral,Excellent,Good,Christian,Non-Possessor
+Democrat,21,315000,Employed,Male,Divorced,Associate Degree,South Carolina,Other,South,Libertarian,Registered,Heterosexual,Veteran,2,Unlikely,Low,Trustful,Fair,Good,Muslim,Non-Possessor
+Republican,62,20000,Self-employed,Female,Divorced,High School,Wyoming,White,Unknown,Socialist,Registered,Heterosexual,Non-Veteran,3,Undecided,Middle,Trustful,Excellent,Excellent,Christian,Non-Possessor
+Republican,19,190000,Self-employed,Female,Widowed,Bachelor's Degree,Connecticut,White,Northeast,Conservative,Registered,Heterosexual,Non-Veteran,0,Unlikely,Low,Distrustful,Excellent,Poor,Christian,Non-Possessor
+Republican,65,95000,Employed,Male,Widowed,High School,Virginia,Asian,South,Centrist,Registered,Heterosexual,Non-Veteran,5,Unlikely,Middle,Trustful,Poor,Good,Christian,Possessor
+Democrat,47,135000,Self-employed,Male,Divorced,High School,Oregon,Black,West Coast,Centrist,Registered,Heterosexual,Non-Veteran,1,Likely,Low,Trustful,Excellent,Excellent,Christian,Non-Possessor
+Democrat,30,100000,Student,Male,Divorced,Master's Degree,North Carolina,Hispanic,South,Centrist,Registered,Heterosexual,Non-Veteran,1,Likely,Low,Distrustful,Fair,Good,Jewish,Non-Possessor
+Republican,21,340000,Unemployed,Male,Married,Master's Degree,North Dakota,Black,Unknown,Progressive,Registered,Gay,Non-Veteran,0,Unlikely,High,Trustful,Excellent,Excellent,Christian,Non-Possessor
+Republican,29,125000,Self-employed,Male,Widowed,Doctoral Degree,Wisconsin,Asian,Midwest,Conservative,Registered,Heterosexual,Non-Veteran,5,Unlikely,Middle,Distrustful,Fair,Poor,Christian,Non-Possessor
+Democrat,20,40000,Unemployed,Non-Binary,Divorced,Master's Degree,Colorado,Other,Unknown,Progressive,Registered,Heterosexual,Non-Veteran,3,Unlikely,High,Distrustful,Poor,Excellent,Jewish,Non-Possessor
+Republican,48,185000,Employed,Male,Single,High School,Maryland,Asian,South,Liberal,Registered,Heterosexual,Non-Veteran,4,Likely,High,Trustful,Fair,Fair,Christian,Non-Possessor
+Democrat,32,95000,Retired,Female,Single,High School,Virginia,Hispanic,South,Socialist,Registered,Heterosexual,Veteran,1,Likely,Low,Trustful,Poor,Fair,Muslim,Possessor
+Democrat,38,180000,Unemployed,Female,Single,High School,North Dakota,White,Unknown,Libertarian,Registered,Gay,Veteran,5,Unlikely,Low,Trustful,Fair,Excellent,Christian,Non-Possessor
+Republican,40,215000,Retired,Male,Married,Bachelor's Degree,California,White,West Coast,Libertarian,Registered,Heterosexual,Non-Veteran,4,Likely,Middle,Distrustful,Poor,Fair,Christian,Possessor
+Democrat,49,90000,Employed,Female,Divorced,Doctoral Degree,Wyoming,Black,Unknown,Conservative,Registered,Heterosexual,Veteran,1,Undecided,High,Trustful,Good,Good,Hindu,Possessor
+Democrat,52,200000,Self-employed,Female,Single,Doctoral Degree,Utah,Asian,Unknown,Socialist,Registered,Heterosexual,Non-Veteran,1,Undecided,Low,Neutral,Fair,Good,Christian,Non-Possessor
+Republican,45,200000,Employed,Male,Widowed,Doctoral Degree,Virginia,White,South,Socialist,Registered,Heterosexual,Non-Veteran,5,Likely,Middle,Distrustful,Poor,Poor,Christian,Non-Possessor
+Democrat,24,210000,Employed,Female,Divorced,Bachelor's Degree,Oklahoma,White,South,Centrist,Registered,Heterosexual,Non-Veteran,5,Undecided,Low,Distrustful,Poor,Fair,Hindu,Non-Possessor
+Democrat,27,30000,Employed,Female,Single,Master's Degree,Vermont,Hispanic,Northeast,Liberal,Registered,Heterosexual,Non-Veteran,4,Undecided,Low,Trustful,Poor,Good,Christian,Non-Possessor
+Republican,49,285000,Self-employed,Male,Single,Master's Degree,Kentucky,Asian,South,Libertarian,Registered,Heterosexual,Non-Veteran,3,Undecided,High,Neutral,Good,Good,Christian,Non-Possessor
+Republican,67,300000,Retired,Male,Married,Master's Degree,South Carolina,Black,South,Socialist,Registered,Heterosexual,Non-Veteran,4,Undecided,Low,Neutral,Poor,Excellent,Muslim,Possessor
+Democrat,47,215000,Student,Male,Divorced,High School,Montana,Black,Unknown,Liberal,Registered,Heterosexual,Non-Veteran,2,Undecided,Middle,Trustful,Good,Poor,Jewish,Possessor
+Republican,75,55000,Employed,Male,Divorced,Associate Degree,Idaho,Hispanic,Unknown,Conservative,Registered,Heterosexual,Non-Veteran,4,Likely,High,Trustful,Good,Fair,Christian,Possessor
+Democrat,59,285000,Self-employed,Female,Divorced,Associate Degree,Utah,Black,Unknown,Progressive,Registered,Heterosexual,Non-Veteran,1,Unlikely,Middle,Distrustful,Excellent,Poor,Hindu,Non-Possessor
+Democrat,30,30000,Self-employed,Female,Widowed,Associate Degree,Virginia,Other,South,Libertarian,Registered,Heterosexual,Non-Veteran,0,Unlikely,High,Trustful,Poor,Fair,Christian,Non-Possessor
+Democrat,22,290000,Self-employed,Female,Widowed,High School,Wyoming,Hispanic,Unknown,Socialist,Registered,Gay,Non-Veteran,2,Undecided,Middle,Trustful,Good,Excellent,Christian,Non-Possessor
+Democrat,21,345000,Employed,Male,Widowed,Associate Degree,Alabama,Asian,South,Centrist,Registered,Heterosexual,Non-Veteran,1,Unlikely,High,Trustful,Poor,Poor,Christian,Non-Possessor
+Democrat,27,185000,Student,Female,Married,Associate Degree,Indiana,Asian,Midwest,Progressive,Registered,Heterosexual,Non-Veteran,3,Likely,Middle,Trustful,Excellent,Excellent,Christian,Possessor
+Democrat,52,85000,Employed,Female,Single,High School,Texas,Other,South,Socialist,Registered,Heterosexual,Non-Veteran,1,Unlikely,High,Neutral,Fair,Poor,Christian,Non-Possessor
+Democrat,43,25000,Self-employed,Female,Divorced,Associate Degree,Washington,Black,West Coast,Liberal,Registered,Heterosexual,Non-Veteran,5,Likely,Middle,Neutral,Good,Fair,Christian,Non-Possessor
+Democrat,36,280000,Self-employed,Male,Divorced,Associate Degree,Oklahoma,Asian,South,Socialist,Registered,Heterosexual,Non-Veteran,1,Likely,Middle,Trustful,Good,Fair,Christian,Non-Possessor
+Republican,35,345000,Unemployed,Male,Widowed,Master's Degree,Minnesota,Other,Midwest,Liberal,Registered,Heterosexual,Non-Veteran,4,Likely,Low,Distrustful,Good,Excellent,Christian,Non-Possessor
+Republican,63,210000,Self-employed,Male,Single,Associate Degree,West Virginia,Hispanic,South,Centrist,Registered,Heterosexual,Non-Veteran,1,Likely,Middle,Neutral,Good,Excellent,Christian,Possessor
+Republican,38,50000,Student,Male,Single,Doctoral Degree,Minnesota,Hispanic,Midwest,Libertarian,Registered,Heterosexual,Non-Veteran,5,Undecided,High,Trustful,Excellent,Good,Christian,Non-Possessor
+Democrat,75,145000,Employed,Male,Single,Bachelor's Degree,Utah,Hispanic,Unknown,Liberal,Registered,Heterosexual,Non-Veteran,2,Likely,Middle,Distrustful,Poor,Poor,Muslim,Non-Possessor
+Democrat,33,140000,Self-employed,Female,Married,Doctoral Degree,North Dakota,Hispanic,Unknown,Liberal,Registered,Heterosexual,Non-Veteran,4,Undecided,High,Neutral,Poor,Fair,Christian,Non-Possessor
+Democrat,45,345000,Employed,Male,Widowed,Doctoral Degree,Kansas,Asian,Unknown,Centrist,Registered,Heterosexual,Non-Veteran,4,Undecided,High,Trustful,Excellent,Poor,Hindu,Non-Possessor
+Republican,74,195000,Employed,Male,Married,Bachelor's Degree,North Dakota,Asian,Unknown,Socialist,Registered,Heterosexual,Veteran,0,Likely,Low,Distrustful,Excellent,Good,Christian,Non-Possessor
+Democrat,23,110000,Unemployed,Male,Single,Bachelor's Degree,Oregon,Black,West Coast,Liberal,Registered,Heterosexual,Non-Veteran,0,Unlikely,High,Trustful,Fair,Fair,Hindu,Non-Possessor
+Democrat,53,95000,Student,Non-Binary,Divorced,Master's Degree,North Carolina,Other,South,Centrist,Registered,Heterosexual,Non-Veteran,4,Undecided,Low,Distrustful,Poor,Fair,Christian,Non-Possessor
+Republican,60,340000,Retired,Female,Married,High School,Montana,White,Unknown,Libertarian,Registered,Heterosexual,Non-Veteran,5,Likely,Low,Distrustful,Excellent,Poor,Christian,Non-Possessor
+Republican,61,310000,Unemployed,Male,Married,Master's Degree,Colorado,Asian,Unknown,Progressive,Registered,Heterosexual,Non-Veteran,4,Likely,Middle,Trustful,Excellent,Good,Christian,Possessor
+Democrat,69,30000,Unemployed,Female,Divorced,High School,New Jersey,White,Northeast,Progressive,Registered,Heterosexual,Non-Veteran,3,Undecided,Middle,Trustful,Good,Poor,Christian,Non-Possessor
+Democrat,54,160000,Self-employed,Female,Divorced,Associate Degree,Michigan,Hispanic,Midwest,Liberal,Registered,Heterosexual,Non-Veteran,0,Unlikely,Middle,Distrustful,Poor,Fair,Christian,Non-Possessor
+Democrat,18,50000,Self-employed,Female,Divorced,Bachelor's Degree,Indiana,Asian,Midwest,Libertarian,Registered,Heterosexual,Non-Veteran,5,Unlikely,Low,Neutral,Poor,Excellent,Hindu,Non-Possessor
+Republican,43,165000,Employed,Female,Single,Bachelor's Degree,Nebraska,White,Unknown,Libertarian,Registered,Heterosexual,Non-Veteran,5,Likely,High,Trustful,Excellent,Poor,Christian,Non-Possessor
+Democrat,35,45000,Student,Female,Single,Associate Degree,Florida,Black,South,Centrist,Registered,Heterosexual,Non-Veteran,2,Unlikely,High,Distrustful,Fair,Poor,Christian,Non-Possessor
+Democrat,77,30000,Student,Female,Single,High School,Arkansas,Other,South,Liberal,Registered,Heterosexual,Non-Veteran,3,Undecided,Middle,Distrustful,Fair,Good,Christian,Possessor
+Republican,77,145000,Employed,Male,Widowed,Doctoral Degree,New Jersey,Other,Northeast,Conservative,Registered,Gay,Non-Veteran,5,Unlikely,High,Neutral,Excellent,Good,Christian,Non-Possessor
+Democrat,26,165000,Student,Male,Divorced,Associate Degree,Connecticut,Black,Northeast,Socialist,Registered,Heterosexual,Non-Veteran,2,Undecided,Low,Distrustful,Good,Excellent,Christian,Possessor
+Republican,77,100000,Retired,Male,Divorced,High School,Wisconsin,White,Midwest,Progressive,Registered,Heterosexual,Non-Veteran,4,Unlikely,High,Neutral,Fair,Poor,Christian,Non-Possessor
+Republican,41,275000,Self-employed,Female,Married,Doctoral Degree,Connecticut,White,Northeast,Socialist,Registered,Heterosexual,Veteran,4,Likely,Middle,Neutral,Fair,Excellent,Christian,Possessor
+Democrat,62,200000,Self-employed,Male,Single,Doctoral Degree,Ohio,Other,Midwest,Conservative,Registered,Heterosexual,Non-Veteran,3,Unlikely,Low,Trustful,Excellent,Fair,Hindu,Possessor
+Democrat,72,135000,Self-employed,Female,Divorced,Master's Degree,Indiana,Black,Midwest,Socialist,Registered,Heterosexual,Non-Veteran,0,Undecided,Middle,Neutral,Fair,Poor,Christian,Non-Possessor
+Republican,25,260000,Unemployed,Male,Single,Doctoral Degree,Oklahoma,Other,South,Libertarian,Registered,Heterosexual,Non-Veteran,3,Likely,Middle,Distrustful,Good,Poor,Christian,Non-Possessor
+Republican,52,15000,Employed,Male,Divorced,High School,Maryland,Other,South,Conservative,Registered,Heterosexual,Non-Veteran,5,Undecided,High,Distrustful,Good,Excellent,Jewish,Non-Possessor
+Republican,20,60000,Self-employed,Male,Married,Doctoral Degree,Nevada,Asian,Unknown,Conservative,Registered,Heterosexual,Non-Veteran,0,Undecided,High,Distrustful,Excellent,Excellent,Jewish,Non-Possessor
+Democrat,47,320000,Employed,Female,Widowed,Bachelor's Degree,California,Hispanic,West Coast,Liberal,Registered,Heterosexual,Non-Veteran,2,Undecided,High,Distrustful,Good,Excellent,Christian,Non-Possessor
+Republican,79,310000,Self-employed,Male,Divorced,Associate Degree,New Hampshire,Other,Northeast,Conservative,Registered,Heterosexual,Non-Veteran,5,Undecided,Middle,Trustful,Good,Fair,Christian,Non-Possessor
+Democrat,27,295000,Unemployed,Female,Single,High School,Rhode Island,White,Northeast,Conservative,Registered,Heterosexual,Non-Veteran,0,Unlikely,Low,Distrustful,Fair,Good,Muslim,Non-Possessor
+Republican,40,305000,Retired,Male,Divorced,Doctoral Degree,Wisconsin,Hispanic,Midwest,Socialist,Registered,Heterosexual,Non-Veteran,1,Undecided,Low,Neutral,Good,Excellent,Christian,Non-Possessor
+Republican,75,150000,Employed,Male,Married,Associate Degree,Alaska,White,Unknown,Centrist,Registered,Heterosexual,Veteran,2,Unlikely,Low,Neutral,Good,Excellent,Christian,Non-Possessor
+Republican,29,340000,Employed,Male,Married,Doctoral Degree,Texas,Asian,South,Socialist,Registered,Heterosexual,Non-Veteran,4,Undecided,Middle,Distrustful,Good,Fair,Christian,Non-Possessor
+Democrat,58,25000,Student,Female,Married,Doctoral Degree,Minnesota,Other,Midwest,Progressive,Registered,Heterosexual,Veteran,2,Unlikely,High,Distrustful,Fair,Fair,Christian,Possessor
+Republican,65,170000,Self-employed,Female,Divorced,High School,Alaska,Hispanic,Unknown,Socialist,Registered,Heterosexual,Non-Veteran,5,Likely,Low,Trustful,Good,Good,Christian,Non-Possessor
+Republican,59,110000,Unemployed,Female,Divorced,Bachelor's Degree,Ohio,Black,Midwest,Centrist,Registered,Gay,Non-Veteran,4,Unlikely,High,Distrustful,Excellent,Excellent,Christian,Non-Possessor
+Republican,51,250000,Self-employed,Male,Widowed,Master's Degree,Maryland,Black,South,Conservative,Registered,Heterosexual,Non-Veteran,5,Unlikely,Middle,Trustful,Fair,Poor,Christian,Non-Possessor
+Republican,77,290000,Self-employed,Female,Married,Bachelor's Degree,Delaware,White,South,Socialist,Registered,Heterosexual,Non-Veteran,5,Undecided,Low,Trustful,Poor,Poor,Christian,Possessor
+Democrat,39,60000,Retired,Male,Widowed,Bachelor's Degree,Florida,Black,South,Centrist,Registered,Heterosexual,Non-Veteran,1,Undecided,High,Neutral,Fair,Fair,Muslim,Non-Possessor
+Democrat,38,15000,Employed,Male,Single,Master's Degree,Pennsylvania,Hispanic,Northeast,Liberal,Registered,Heterosexual,Non-Veteran,2,Likely,Middle,Trustful,Good,Fair,Hindu,Possessor
+Democrat,22,60000,Employed,Female,Widowed,Master's Degree,Georgia,Asian,South,Conservative,Registered,Heterosexual,Non-Veteran,2,Likely,Low,Distrustful,Fair,Excellent,Christian,Non-Possessor
+Democrat,18,50000,Student,Female,Divorced,Bachelor's Degree,Colorado,White,Unknown,Centrist,Registered,Heterosexual,Non-Veteran,0,Undecided,High,Trustful,Excellent,Fair,Hindu,Non-Possessor
+Republican,66,165000,Retired,Non-Binary,Divorced,Associate Degree,Alabama,Asian,South,Liberal,Registered,Heterosexual,Veteran,5,Unlikely,Middle,Neutral,Good,Fair,Jewish,Non-Possessor
+Republican,34,75000,Employed,Male,Widowed,Bachelor's Degree,Alabama,Hispanic,South,Libertarian,Registered,Heterosexual,Non-Veteran,3,Likely,Middle,Neutral,Excellent,Good,Christian,Non-Possessor
+Democrat,21,165000,Employed,Female,Widowed,Bachelor's Degree,South Dakota,Asian,Unknown,Centrist,Registered,Heterosexual,Non-Veteran,1,Likely,Middle,Neutral,Poor,Good,Christian,Non-Possessor
+Republican,43,35000,Employed,Male,Widowed,Master's Degree,North Dakota,Other,Unknown,Progressive,Registered,Heterosexual,Veteran,0,Likely,Low,Neutral,Fair,Good,Christian,Non-Possessor
+Democrat,51,120000,Student,Male,Widowed,Associate Degree,Tennessee,Asian,South,Centrist,Registered,Heterosexual,Non-Veteran,5,Undecided,Middle,Trustful,Poor,Poor,Christian,Possessor
+Democrat,42,130000,Retired,Female,Widowed,Bachelor's Degree,Illinois,Asian,Midwest,Conservative,Registered,Heterosexual,Non-Veteran,5,Undecided,Low,Trustful,Fair,Fair,Christian,Non-Possessor
+Democrat,48,95000,Retired,Female,Single,Bachelor's Degree,Florida,Black,South,Liberal,Registered,Heterosexual,Non-Veteran,4,Undecided,Middle,Distrustful,Poor,Excellent,Jewish,Possessor
+Republican,48,245000,Student,Male,Married,Doctoral Degree,Kentucky,White,South,Progressive,Registered,Heterosexual,Non-Veteran,5,Undecided,Low,Distrustful,Poor,Fair,Christian,Non-Possessor
+Republican,60,160000,Self-employed,Male,Divorced,Associate Degree,Colorado,White,Unknown,Centrist,Registered,Heterosexual,Non-Veteran,5,Likely,Middle,Distrustful,Good,Fair,Jewish,Non-Possessor
+Republican,58,280000,Self-employed,Female,Single,Bachelor's Degree,Colorado,White,Unknown,Libertarian,Registered,Heterosexual,Non-Veteran,2,Likely,Low,Neutral,Fair,Excellent,Christian,Non-Possessor
+Democrat,26,345000,Unemployed,Female,Married,Bachelor's Degree,Hawaii,White,Unknown,Socialist,Registered,Heterosexual,Non-Veteran,0,Undecided,Middle,Neutral,Poor,Fair,Christian,Non-Possessor
+Republican,27,325000,Self-employed,Male,Divorced,High School,Kentucky,Other,South,Centrist,Registered,Heterosexual,Non-Veteran,5,Unlikely,Middle,Trustful,Fair,Good,Jewish,Non-Possessor
+Republican,33,145000,Retired,Male,Single,Doctoral Degree,Nebraska,Black,Unknown,Progressive,Registered,Heterosexual,Veteran,4,Undecided,High,Neutral,Good,Excellent,Christian,Non-Possessor
+Democrat,23,200000,Student,Female,Divorced,Bachelor's Degree,Oregon,Hispanic,West Coast,Liberal,Registered,Heterosexual,Non-Veteran,5,Likely,Middle,Trustful,Poor,Excellent,Christian,Possessor
+Democrat,45,305000,Employed,Male,Divorced,Bachelor's Degree,Georgia,Asian,South,Liberal,Registered,Heterosexual,Non-Veteran,5,Undecided,Low,Distrustful,Poor,Excellent,Hindu,Possessor
+Democrat,34,65000,Student,Male,Married,Bachelor's Degree,Minnesota,Black,Midwest,Libertarian,Registered,Gay,Non-Veteran,2,Unlikely,Middle,Distrustful,Poor,Poor,Christian,Possessor
+Democrat,21,60000,Unemployed,Male,Divorced,Bachelor's Degree,Oklahoma,Hispanic,South,Liberal,Registered,Heterosexual,Non-Veteran,0,Likely,High,Neutral,Good,Poor,Christian,Non-Possessor
+Republican,78,260000,Unemployed,Female,Widowed,Associate Degree,Kansas,Hispanic,Unknown,Conservative,Registered,Heterosexual,Veteran,5,Undecided,High,Trustful,Poor,Excellent,Christian,Non-Possessor
+Democrat,74,200000,Retired,Female,Divorced,Doctoral Degree,Oregon,Asian,West Coast,Liberal,Registered,Gay,Non-Veteran,5,Unlikely,High,Trustful,Fair,Poor,Christian,Non-Possessor
+Republican,78,250000,Employed,Male,Single,Bachelor's Degree,Wyoming,Asian,Unknown,Centrist,Registered,Heterosexual,Non-Veteran,5,Likely,High,Distrustful,Poor,Fair,Christian,Possessor
+Democrat,43,90000,Retired,Non-Binary,Divorced,Doctoral Degree,Pennsylvania,Other,Northeast,Conservative,Registered,Heterosexual,Non-Veteran,2,Unlikely,Middle,Neutral,Fair,Poor,Christian,Non-Possessor
+Republican,73,70000,Retired,Male,Married,Doctoral Degree,Nebraska,Asian,Unknown,Libertarian,Registered,Heterosexual,Non-Veteran,0,Undecided,High,Distrustful,Excellent,Fair,Christian,Non-Possessor
+Democrat,29,125000,Unemployed,Female,Widowed,Master's Degree,New York,Black,Northeast,Progressive,Registered,Heterosexual,Non-Veteran,2,Undecided,Middle,Trustful,Fair,Good,Christian,Non-Possessor
+Democrat,75,195000,Student,Female,Single,Associate Degree,Oklahoma,Asian,South,Libertarian,Registered,Heterosexual,Non-Veteran,2,Likely,Middle,Distrustful,Fair,Fair,Muslim,Non-Possessor
+Republican,52,95000,Retired,Male,Widowed,Master's Degree,North Dakota,Hispanic,Unknown,Centrist,Registered,Heterosexual,Veteran,4,Likely,High,Neutral,Fair,Excellent,Jewish,Non-Possessor
+Democrat,34,110000,Retired,Female,Single,Bachelor's Degree,South Dakota,Other,Unknown,Conservative,Registered,Heterosexual,Non-Veteran,1,Unlikely,High,Distrustful,Good,Poor,Jewish,Non-Possessor
+Republican,51,30000,Employed,Female,Widowed,Doctoral Degree,Virginia,White,South,Libertarian,Registered,Heterosexual,Veteran,1,Likely,High,Trustful,Good,Poor,Christian,Non-Possessor
+Democrat,58,230000,Unemployed,Female,Married,Doctoral Degree,New Mexico,Black,Unknown,Libertarian,Registered,Heterosexual,Non-Veteran,2,Likely,High,Trustful,Fair,Fair,Christian,Non-Possessor
+Republican,56,35000,Retired,Female,Widowed,Doctoral Degree,Nebraska,Asian,Unknown,Conservative,Registered,Heterosexual,Non-Veteran,4,Unlikely,Middle,Distrustful,Fair,Fair,Christian,Possessor
+Democrat,52,255000,Student,Female,Single,Master's Degree,Idaho,Black,Unknown,Conservative,Registered,Heterosexual,Non-Veteran,1,Undecided,High,Neutral,Good,Poor,Christian,Non-Possessor
+Democrat,33,30000,Unemployed,Male,Widowed,Doctoral Degree,Nebraska,Hispanic,Unknown,Conservative,Registered,Heterosexual,Non-Veteran,1,Likely,High,Trustful,Excellent,Good,Jewish,Non-Possessor
+Democrat,20,30000,Retired,Female,Widowed,Associate Degree,Nevada,Black,Unknown,Conservative,Registered,Heterosexual,Non-Veteran,2,Unlikely,High,Distrustful,Poor,Poor,Jewish,Non-Possessor
+Republican,64,130000,Employed,Male,Single,High School,Georgia,Other,South,Conservative,Registered,Heterosexual,Non-Veteran,5,Undecided,High,Distrustful,Poor,Excellent,Christian,Non-Possessor
+Democrat,36,15000,Unemployed,Male,Widowed,Associate Degree,Alaska,Hispanic,Unknown,Centrist,Registered,Gay,Non-Veteran,5,Undecided,Low,Distrustful,Excellent,Good,Christian,Non-Possessor
+Republican,55,70000,Unemployed,Male,Widowed,Master's Degree,Maryland,White,South,Liberal,Registered,Heterosexual,Non-Veteran,5,Undecided,High,Trustful,Poor,Excellent,Christian,Possessor
+Democrat,50,145000,Employed,Female,Single,Master's Degree,Iowa,Other,Midwest,Liberal,Registered,Heterosexual,Non-Veteran,1,Unlikely,High,Trustful,Good,Good,Christian,Possessor
+Democrat,24,205000,Student,Female,Single,Master's Degree,Hawaii,Asian,Unknown,Progressive,Registered,Gay,Non-Veteran,1,Unlikely,Middle,Neutral,Fair,Excellent,Christian,Non-Possessor
+Republican,43,250000,Retired,Male,Married,Doctoral Degree,New Mexico,Other,Unknown,Liberal,Registered,Heterosexual,Non-Veteran,0,Undecided,High,Neutral,Good,Excellent,Muslim,Non-Possessor
+Democrat,72,220000,Unemployed,Male,Single,Doctoral Degree,Florida,Black,South,Conservative,Registered,Heterosexual,Non-Veteran,2,Likely,High,Neutral,Fair,Poor,Jewish,Non-Possessor
+Democrat,40,190000,Unemployed,Male,Single,Doctoral Degree,Missouri,Hispanic,Midwest,Centrist,Registered,Heterosexual,Non-Veteran,2,Undecided,High,Neutral,Poor,Fair,Christian,Non-Possessor
+Republican,79,320000,Retired,Male,Widowed,High School,North Dakota,Asian,Unknown,Socialist,Registered,Heterosexual,Non-Veteran,3,Likely,Middle,Trustful,Excellent,Fair,Hindu,Non-Possessor
+Democrat,33,325000,Employed,Female,Divorced,Associate Degree,Massachusetts,Other,Northeast,Progressive,Registered,Heterosexual,Non-Veteran,5,Undecided,Middle,Trustful,Good,Fair,Christian,Non-Possessor
+Republican,68,260000,Retired,Male,Widowed,Master's Degree,Ohio,Black,Midwest,Socialist,Registered,Heterosexual,Non-Veteran,0,Undecided,High,Distrustful,Fair,Excellent,Christian,Possessor
+Republican,30,305000,Self-employed,Male,Widowed,Doctoral Degree,Indiana,Asian,Midwest,Libertarian,Registered,Heterosexual,Non-Veteran,2,Unlikely,Middle,Distrustful,Fair,Excellent,Christian,Non-Possessor
+Republican,72,315000,Unemployed,Male,Single,High School,West Virginia,Asian,South,Liberal,Registered,Heterosexual,Non-Veteran,4,Undecided,High,Neutral,Fair,Fair,Christian,Non-Possessor
+Republican,40,265000,Self-employed,Female,Single,Associate Degree,West Virginia,White,South,Liberal,Registered,Heterosexual,Non-Veteran,5,Unlikely,Middle,Neutral,Good,Excellent,Christian,Non-Possessor
+Democrat,26,60000,Student,Female,Married,Associate Degree,Pennsylvania,Hispanic,Northeast,Liberal,Registered,Heterosexual,Non-Veteran,5,Unlikely,High,Distrustful,Fair,Poor,Muslim,Non-Possessor
+Democrat,47,345000,Self-employed,Female,Married,Associate Degree,Minnesota,Asian,Midwest,Libertarian,Registered,Gay,Non-Veteran,0,Likely,Low,Distrustful,Poor,Fair,Christian,Non-Possessor
+Democrat,21,70000,Self-employed,Female,Divorced,High School,Rhode Island,Black,Northeast,Liberal,Registered,Heterosexual,Non-Veteran,0,Likely,Middle,Distrustful,Fair,Poor,Christian,Non-Possessor
+Democrat,27,75000,Self-employed,Female,Divorced,Doctoral Degree,Ohio,Black,Midwest,Progressive,Registered,Heterosexual,Non-Veteran,4,Likely,Middle,Distrustful,Fair,Good,Christian,Non-Possessor
+Republican,67,20000,Retired,Male,Married,Bachelor's Degree,Wyoming,White,Unknown,Centrist,Registered,Heterosexual,Non-Veteran,1,Unlikely,High,Neutral,Good,Good,Muslim,Possessor
+Democrat,55,40000,Employed,Male,Married,Doctoral Degree,Maine,Hispanic,Northeast,Socialist,Registered,Heterosexual,Non-Veteran,1,Unlikely,Low,Trustful,Good,Excellent,Christian,Non-Possessor
+Democrat,64,340000,Unemployed,Female,Divorced,Bachelor's Degree,Wyoming,Hispanic,Unknown,Socialist,Registered,Heterosexual,Non-Veteran,5,Undecided,Low,Neutral,Fair,Fair,Christian,Non-Possessor
+Democrat,25,15000,Employed,Male,Single,High School,Hawaii,Asian,Unknown,Liberal,Registered,Heterosexual,Non-Veteran,0,Unlikely,High,Neutral,Poor,Excellent,Hindu,Possessor
+Republican,76,345000,Retired,Non-Binary,Widowed,Bachelor's Degree,Arizona,Other,Unknown,Progressive,Registered,Heterosexual,Non-Veteran,3,Unlikely,Low,Distrustful,Good,Excellent,Christian,Non-Possessor
+Democrat,32,170000,Employed,Male,Single,Master's Degree,Alaska,White,Unknown,Centrist,Registered,Heterosexual,Non-Veteran,3,Undecided,Low,Distrustful,Good,Fair,Christian,Non-Possessor
+Republican,64,290000,Self-employed,Female,Married,Associate Degree,New York,Other,Northeast,Conservative,Registered,Heterosexual,Non-Veteran,5,Undecided,Low,Distrustful,Excellent,Good,Christian,Possessor
+Republican,61,280000,Employed,Male,Married,Doctoral Degree,Oregon,White,West Coast,Centrist,Registered,Heterosexual,Veteran,1,Unlikely,High,Neutral,Excellent,Excellent,Christian,Non-Possessor
+Republican,35,200000,Unemployed,Male,Widowed,High School,Iowa,Black,Midwest,Progressive,Registered,Heterosexual,Non-Veteran,0,Undecided,High,Distrustful,Poor,Excellent,Christian,Non-Possessor
+Democrat,78,135000,Employed,Male,Divorced,Bachelor's Degree,Ohio,Black,Midwest,Conservative,Registered,Gay,Non-Veteran,4,Unlikely,High,Trustful,Excellent,Fair,Hindu,Possessor
+Democrat,40,155000,Self-employed,Male,Single,Associate Degree,Louisiana,Black,South,Centrist,Registered,Heterosexual,Non-Veteran,3,Unlikely,Low,Trustful,Good,Good,Hindu,Non-Possessor
+Democrat,31,75000,Self-employed,Male,Single,Associate Degree,Utah,Hispanic,Unknown,Liberal,Registered,Heterosexual,Non-Veteran,1,Undecided,Middle,Distrustful,Good,Good,Christian,Non-Possessor
+Republican,76,230000,Employed,Male,Widowed,Doctoral Degree,Mississippi,Other,South,Libertarian,Registered,Heterosexual,Non-Veteran,2,Undecided,Low,Trustful,Poor,Excellent,Christian,Non-Possessor
+Democrat,53,320000,Unemployed,Female,Divorced,Master's Degree,Maryland,Other,South,Progressive,Registered,Heterosexual,Non-Veteran,2,Undecided,High,Neutral,Fair,Poor,Christian,Non-Possessor
+Democrat,46,80000,Unemployed,Male,Divorced,High School,Illinois,Black,Midwest,Progressive,Registered,Heterosexual,Non-Veteran,0,Undecided,High,Distrustful,Fair,Poor,Hindu,Non-Possessor
+Democrat,20,285000,Self-employed,Non-Binary,Married,Bachelor's Degree,South Dakota,Hispanic,Unknown,Liberal,Registered,Heterosexual,Non-Veteran,0,Likely,High,Neutral,Fair,Fair,Christian,Possessor
+Republican,44,265000,Unemployed,Female,Widowed,Master's Degree,Hawaii,Black,Unknown,Libertarian,Registered,Heterosexual,Non-Veteran,4,Unlikely,High,Trustful,Good,Good,Christian,Possessor
+Republican,33,285000,Retired,Female,Widowed,Associate Degree,Kansas,White,Unknown,Libertarian,Registered,Heterosexual,Non-Veteran,0,Undecided,Low,Distrustful,Poor,Fair,Christian,Possessor
+Democrat,56,115000,Student,Male,Divorced,Associate Degree,Nebraska,Other,Unknown,Liberal,Registered,Heterosexual,Non-Veteran,2,Likely,Middle,Neutral,Excellent,Fair,Christian,Non-Possessor
+Democrat,43,135000,Unemployed,Female,Divorced,High School,Texas,Asian,South,Socialist,Registered,Heterosexual,Non-Veteran,4,Likely,Middle,Trustful,Good,Good,Christian,Possessor
+Republican,64,220000,Unemployed,Male,Single,Associate Degree,Pennsylvania,White,Northeast,Conservative,Registered,Heterosexual,Non-Veteran,0,Undecided,Middle,Trustful,Good,Good,Christian,Non-Possessor
+Republican,52,320000,Retired,Female,Married,Associate Degree,Alabama,Hispanic,South,Centrist,Registered,Heterosexual,Non-Veteran,3,Likely,High,Neutral,Poor,Good,Christian,Non-Possessor
+Republican,68,220000,Student,Female,Widowed,Associate Degree,California,White,West Coast,Centrist,Registered,Heterosexual,Non-Veteran,5,Likely,High,Trustful,Good,Good,Muslim,Non-Possessor
+Democrat,60,65000,Self-employed,Female,Married,Master's Degree,Indiana,Other,Midwest,Socialist,Registered,Heterosexual,Non-Veteran,3,Undecided,Middle,Trustful,Poor,Good,Christian,Possessor
+Democrat,26,245000,Employed,Male,Single,Master's Degree,Wyoming,Hispanic,Unknown,Progressive,Registered,Heterosexual,Non-Veteran,0,Unlikely,High,Distrustful,Poor,Fair,Muslim,Non-Possessor
+Republican,77,330000,Employed,Male,Widowed,Associate Degree,North Carolina,Black,South,Progressive,Registered,Gay,Non-Veteran,5,Undecided,High,Neutral,Excellent,Excellent,Christian,Non-Possessor
+Democrat,72,50000,Employed,Female,Widowed,Bachelor's Degree,Maryland,Black,South,Conservative,Registered,Heterosexual,Non-Veteran,3,Undecided,Middle,Trustful,Fair,Good,Muslim,Non-Possessor
+Republican,61,310000,Retired,Female,Married,Associate Degree,Massachusetts,Asian,Northeast,Socialist,Registered,Heterosexual,Veteran,5,Unlikely,High,Distrustful,Good,Fair,Christian,Non-Possessor
+Republican,58,280000,Retired,Male,Divorced,Doctoral Degree,Ohio,Hispanic,Midwest,Progressive,Registered,Heterosexual,Non-Veteran,5,Undecided,Low,Neutral,Excellent,Fair,Christian,Non-Possessor
+Democrat,54,180000,Retired,Non-Binary,Divorced,Bachelor's Degree,Arizona,Hispanic,Unknown,Libertarian,Registered,Heterosexual,Non-Veteran,2,Undecided,Low,Trustful,Good,Fair,Hindu,Possessor
+Democrat,38,185000,Student,Male,Widowed,Doctoral Degree,Indiana,Black,Midwest,Progressive,Registered,Heterosexual,Non-Veteran,2,Undecided,High,Neutral,Good,Fair,Muslim,Possessor
+Republican,21,175000,Employed,Male,Single,Doctoral Degree,Florida,Other,South,Conservative,Registered,Heterosexual,Non-Veteran,5,Likely,Low,Trustful,Excellent,Good,Christian,Non-Possessor
+Democrat,32,190000,Unemployed,Female,Married,Doctoral Degree,Massachusetts,Black,Northeast,Libertarian,Registered,Heterosexual,Non-Veteran,3,Unlikely,Middle,Trustful,Poor,Poor,Christian,Possessor
+Democrat,39,65000,Unemployed,Male,Single,Bachelor's Degree,North Carolina,Black,South,Liberal,Registered,Gay,Non-Veteran,1,Unlikely,Low,Neutral,Good,Good,Christian,Non-Possessor
+Republican,53,85000,Student,Male,Widowed,Associate Degree,Missouri,White,Midwest,Conservative,Registered,Heterosexual,Non-Veteran,1,Unlikely,High,Distrustful,Poor,Good,Christian,Possessor
+Republican,62,155000,Self-employed,Male,Single,Associate Degree,Mississippi,Hispanic,South,Conservative,Registered,Heterosexual,Non-Veteran,0,Undecided,High,Trustful,Good,Good,Christian,Non-Possessor
+Democrat,67,90000,Student,Male,Widowed,Associate Degree,Massachusetts,Hispanic,Northeast,Liberal,Registered,Heterosexual,Non-Veteran,1,Likely,High,Trustful,Poor,Good,Jewish,Non-Possessor
+Democrat,46,105000,Student,Male,Single,High School,Texas,White,South,Libertarian,Registered,Heterosexual,Non-Veteran,3,Likely,High,Trustful,Poor,Poor,Jewish,Non-Possessor
+Republican,62,290000,Self-employed,Male,Single,Doctoral Degree,Oregon,Other,West Coast,Socialist,Registered,Heterosexual,Non-Veteran,3,Likely,Low,Distrustful,Good,Good,Christian,Non-Possessor
+Republican,34,210000,Employed,Male,Widowed,Bachelor's Degree,Louisiana,White,South,Centrist,Registered,Heterosexual,Non-Veteran,4,Undecided,High,Trustful,Excellent,Good,Christian,Possessor
+Democrat,72,230000,Retired,Female,Divorced,Associate Degree,Arizona,Asian,Unknown,Libertarian,Registered,Heterosexual,Non-Veteran,2,Unlikely,Low,Neutral,Fair,Good,Muslim,Non-Possessor
+Republican,62,85000,Employed,Male,Married,High School,South Carolina,Other,South,Centrist,Registered,Heterosexual,Non-Veteran,0,Likely,Middle,Distrustful,Excellent,Poor,Christian,Non-Possessor
+Democrat,37,125000,Student,Male,Single,Bachelor's Degree,Georgia,Other,South,Centrist,Registered,Heterosexual,Non-Veteran,2,Undecided,Middle,Neutral,Poor,Fair,Christian,Non-Possessor
+Democrat,37,160000,Unemployed,Male,Widowed,Master's Degree,Ohio,White,Midwest,Libertarian,Registered,Gay,Non-Veteran,5,Undecided,Low,Trustful,Poor,Fair,Jewish,Non-Possessor
+Republican,33,175000,Employed,Female,Married,Bachelor's Degree,Florida,White,South,Conservative,Registered,Heterosexual,Non-Veteran,5,Unlikely,Middle,Trustful,Excellent,Good,Jewish,Non-Possessor
+Democrat,31,25000,Student,Male,Married,Associate Degree,Kansas,Asian,Unknown,Libertarian,Registered,Heterosexual,Non-Veteran,0,Likely,High,Neutral,Fair,Fair,Muslim,Non-Possessor
+Democrat,48,155000,Unemployed,Male,Widowed,Master's Degree,Minnesota,Asian,Midwest,Conservative,Registered,Heterosexual,Non-Veteran,0,Likely,Middle,Neutral,Fair,Poor,Jewish,Non-Possessor
+Republican,23,345000,Employed,Male,Widowed,Master's Degree,Nevada,White,Unknown,Liberal,Registered,Heterosexual,Non-Veteran,5,Undecided,High,Trustful,Fair,Good,Christian,Non-Possessor
+Republican,67,170000,Employed,Male,Divorced,High School,New Jersey,Black,Northeast,Centrist,Registered,Heterosexual,Non-Veteran,4,Likely,Low,Distrustful,Poor,Excellent,Christian,Non-Possessor
+Republican,46,260000,Employed,Female,Single,Master's Degree,Illinois,Hispanic,Midwest,Conservative,Registered,Heterosexual,Non-Veteran,1,Undecided,High,Neutral,Excellent,Excellent,Christian,Possessor
+Republican,21,70000,Employed,Male,Single,Associate Degree,South Carolina,Asian,South,Conservative,Registered,Heterosexual,Veteran,4,Undecided,High,Neutral,Fair,Poor,Christian,Possessor
+Democrat,22,80000,Self-employed,Male,Married,Doctoral Degree,Pennsylvania,Other,Northeast,Socialist,Registered,Heterosexual,Non-Veteran,2,Undecided,Middle,Trustful,Poor,Fair,Muslim,Non-Possessor
